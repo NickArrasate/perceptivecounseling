@@ -1,0 +1,46 @@
+<div id="testimonial-carousel" class="carousel slide" style="
+width: 100%; transition: height 5s ease-in-out;margin-bottom: 5em;">
+<div class="container row-90 text-center">
+  <div class="carousel-inner text-left"><!-- slides -->
+    {% for testimonial in site.testimonials %}
+    <div class="carousel-item {% if forloop.first %}active{% endif %}">
+      <div class="row d-flex align-items-center">
+        {% if testimonial.image_path %}
+        <div class="col-md-2 order-1">
+          <img class="img" src="{{ testimonial.image_path }}">
+        </div>
+        {% endif %}
+        {% if testimonial.image_path %}
+        <div class="col-md-10 order-1 text-left">
+        {% else %}
+        <div class="col-md-8 order-2 offset-md-2 text-center">
+        {% endif %}
+          <div class="t-holder">
+            <div class="row">
+              <div class="col-sm-12">
+                <h1 style="margin: 1em 0;padding-left:20px;">{{ testimonial.copy_textarea }}</h1>
+                <p class="credit" style="padding-left:20px;">{{ testimonial.byline_name }}
+                <br/><a class="text-green" href="{{ testimonial.byline_link }}" target="_blank" rel="noopener nofollow">{{ testimonial.byline_org }}</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <!-- Controls -->
+  <!-- <a class="left carousel-control text-green" href="#testimonial-carousel" data-slide="prev">
+    <span class="fa fa-angle-left"></span>
+  </a>
+  <a class="right carousel-control text-green" href="#testimonial-carousel" data-slide="next">
+    <span class="fa fa-angle-right"></span>
+  </a> -->
+
+</div> <!-- end carousel -->
+<script>
+    $('.carousel').carousel({
+     interval: 20000
+    });
+   </script>
+</div>

@@ -1,0 +1,29 @@
+<!--Accordion wrapper-->
+<div class="accordion md-accordion" id="accordionEx1" role="tablist" aria-multiselectable="true">
+    {% for faq in site.faq %}
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header dark-green" role="tab" id="headingTwo{{ forloop.index }}">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx1" href="#collapse{{ forloop.index }}"
+          aria-expanded="false" aria-controls="collapse{{ forloop.index }}">
+          <h5 class="mb-0">
+            {{ faq.title }} <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      {% if forloop.first == true %}
+      <div id="collapse{{ forloop.index }}" class="collapse show" role="tabpanel" aria-labelledby="headingTwo{{ forloop.index }}"
+      {% else %}
+      <div id="collapse{{ forloop.index }}" class="collapse" role="tabpanel" aria-labelledby="headingTwo{{ forloop.index }}"
+      {% endif %}
+        data-parent="#accordionEx1">
+        <div class="card-body">
+            {{ faq.content | markdownify }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <!-- Accordion wrapper -->

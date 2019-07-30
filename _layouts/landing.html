@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% include head.html %}
+<body>
+  <div class="background-float"></div>
+  <div id="wrapper" class="">
+    <div id="main">
+        {% include header.html %}
+      <div class="{{page.layout}}">
+        {% include elements/section-intro.html %}
+        {{ content }}
+      </div>
+    </div>
+  </div>
+  {% include footer.html %}
+  {% include cookie-consent.html %}
+  {% include tracking.html %}
+</body>

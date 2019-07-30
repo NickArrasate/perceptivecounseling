@@ -1,0 +1,57 @@
+{% for block in site.feature-blocks %}
+<div class="row features-row">
+{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+{% if thecycle == 'odd' %}
+  <div class="feature-block-image col-md-6 col-lg-7 order-sm-1 order-1">
+    {% if block.img_path %}
+      <img src="{{ block.img_path }}"/>
+      {% else %}
+      <div class="d-flex align-items-center justify-content-between">
+        <div>
+          <img src="{{ block.img_1_path }}"/>
+        </div>
+        <div>
+          <img src="{{ block.img_2_path }}"/>
+        </div>
+        <div>
+          <img src="{{ block.img_3_path }}"/>
+        </div>
+      </div>
+      {% endif%}
+  </div>
+  <div class="feature-block-copy col-md-6 col-lg-5 text-left order-sm-2 order-2">
+    <div class="inner">
+      <h2>{{ block.title }}</h2>
+      <p>{{ block.copy_text }}</p>
+      {% if block.button_link %}<a href="{{ block.button_link }}"><button class="btn btn-info">{{ block.button_text }}</button></a>{% endif %}
+    </div>
+  </div>
+{% else %}
+  <div class="feature-block-copy col-md-6 col-lg-5 text-left order-sm-2 order-md-1" style="margin: 50px -4em 0 0;z-index:1;">
+    <div class="inner">
+      <h2>{{ block.title }}</h2>
+      <p>{{ block.copy_text }}</p>
+      {% if block.button_link %}<a href="{{ block.button_link }}"><button class="btn btn-info">{{ block.button_text }}</button></a>{% endif %}
+    </div>
+  </div>
+  <div class="feature-block-image col-md-6 col-lg-7 order-sm-1 order-md-2">
+    {% if block.img_path %}
+      <img src="{{ block.img_path }}"/>
+      {% else %}
+      <div class="d-flex align-items-center justify-content-between">
+        <div>
+          <img src="{{ block.img_1_path }}"/>
+        </div>
+        <div>
+          <img src="{{ block.img_2_path }}"/>
+        </div>
+        <div>
+          <img src="{{ block.img_3_path }}"/>
+        </div>
+      </div>
+      {% endif%}
+  </div>
+{% endif %}
+
+</div>
+{% endfor %}

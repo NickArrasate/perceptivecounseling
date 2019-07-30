@@ -1,0 +1,29 @@
+{% assign plans = site.pricing %}
+<div class="row team-row">
+  {% for plan in plans %}
+  <!-- <div class="col-md-6 offset-md-3 team-member-box"> -->
+  <div class="col-sm-10 offset-sm-1 team-member-box">
+    <div class="team-member-card">
+      <div class="plan-image {% cycle 'green','yellow','dark-green'%}" style="">
+        <strike class="text-white"><h3><span class="dollar text-white">$40<span class="small">/month</span></span></h3></strike>
+        <h1 class="text-white">{{ plan.price }}<span class="small">/month</span></h1>
+        <h3 class="text-white">{{ plan.title }}</h3>
+      </div>
+      <div class="plan-copy">
+        {% for feature in plan.features %}
+        <div class="features">
+          <p>{{ feature.copy_content }}</p>
+        </div>
+        {% endfor %}
+        <div class="row-60 d-flex justify-content-center">
+          <a target="_blank" href="{{ plan.install_link }}" class="btn btn-default">Sign Up</a>
+        </div>
+        {% if plan.tagline %}
+          <small class="plan-tagline" style="padding-top: 1.5em !important;display: inline-block;font-style: italic !important;display: inline-block;">{{ plan.tagline }}</small>
+        {% endif %}
+      </div>
+
+      </div>
+    </div>
+  {% endfor %}
+</div>

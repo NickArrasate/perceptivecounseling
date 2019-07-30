@@ -1,0 +1,27 @@
+<div class="row features clearfix">
+  {% assign features = site.features | sort:'name' %}
+  {% for item in features %}
+    {% capture thecycle %}{% cycle '1', '2', '3' %}{% endcapture %}
+    {% if thecycle == '1' and forloop.first == false %}
+</div>
+<div class="row features clearfix">
+    {% endif %}
+    <div class="feature col-md-4">
+        <div class="inner outline d-flex flex-column align-items-start justify-content-start">
+
+        <div class="d-flex align-items-center">
+          <div style="margin-right:10px;">
+              {% if item.icon.img_path %}
+                <i><img src="{{ item.icon.img_path }}" alt="{{ item.title }}" style=" max-width: 30px;" /></i>
+              {% elsif item.icon.fa %}
+                <i class="fa {{ item.icon.fa }}" style="{% if item.icon.icon_color %}color: {{item.icon.icon_color}};{% endif %}"></i>
+              {% endif %}
+              </div>
+          <h3 class="title text-green">{{ item.title }}</h3>
+          <h4 class="sub-title">{{ item.subtitle }}</h4>
+        </div>
+        <p>{{ item.description_text }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,104 @@
+<div id="gallery">
+{% capture tab-nav %}
+{% assign images = site.gallery | sort: 'category' %}
+{% assign category = meh %}
+<ul class="nav nav-tabs" id="galleryTabs" role="tablist">
+  <li class="nav-item"><a data-toggle="tab" href="#alltab" class="nav-link active gallery-click" role="tab">All</a></li>
+  {% for image in images %}
+    {% if image.category != category %}
+    {% assign category = image.category | lowercase %}
+    <li class="nav-item">
+      <a data-toggle="tab" href="#{{category | slugify }}tab" class="nav-link gallery-click" role="tab">{{category | replace: "-", " " | upcase }}
+      </a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endcapture %}
+
+{% for image in site.gallery %}
+  {% if image.featured %}
+    {% assign featured_image = image %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+<div class="row d-flex justify-content-center">
+  <div class="col text-center featured-image-box">
+    <img src="{{ featured_image.img_url }}"/>
+    <br/>
+    <p>{{ featured_image.description }}</p>
+    {% if featured_image.member-directory-url %}
+      <p class="small pull-right">Dentistry Performed by <a href="{{featured_image.member-directory-url}}" target="_blank">{{featured_image.member-name}}</a></p>
+    {% endif %}
+  </div>
+</div>
+{% assign category = null %}
+{% assign documents = null %}
+<div class="tab-content" id="scroll-target">
+  {% assign images = site.gallery | sort: 'category' %}
+  {% for image in images %}
+  {% if image.category != category %}
+  {% assign category = image.category | lowercase %}
+  {% assign images = site.gallery | where: "category", category %}
+  <div id="{{category | slugify }}tab" class="tab-pane fade ">
+    <div class="row" style="">
+      {% for image in images %}
+      <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+        <div id="documents" class="row">
+          <div class="">
+              <div class="img-fluid gallery-image">
+                  <a href="{{ image.img_url }}"><img data-src="{{ image.img_url }}" alt="{{ image.description }}" {% if image.member-name %} title="{{ image.description }} <br/> <span>Dentistry performed by: <a href='{{image.member-directory-url}}'>{{ image.member-name }}</a></span>"{% else %} title="{{image.description}}" {% endif %}></a>
+                </div>
+            <!-- doc summaries and links -->
+            <h4>
+              <strong>
+                {% if image.external-doc-url %}<a href="{{image.external-doc-url}}" target="_blank">{{ image.title }}</a>
+                {% elsif image.document_path%}<a href="{{image.document_path}}" target="_blank">{{ image.title }}</a>
+                {% else%}{{ image.procedure-name }}{% endif %}
+              </strong>
+            </h4>
+            {% if image.description %}<p class="text-left">{{ image.description | truncatewords: 24 }}</p>{% endif %}
+            <p class="small">{% if image.document_path %}<a href="{{ image.document_path }}" download><i class="fa fa-download"></i>Download</a>{% endif %}{% if image.external-doc-url %}<a href="{{ image.external-doc-url}}" target="_blank"><i class="fa fa-link"></i>View in New Tab</a>{% endif %}</p>
+          </div>
+        </div><!--end inside row -->
+      </div><!--end columns row -->
+      {% endfor %}
+    </div><!--end outside row -->
+  </div>
+  {% endif %}
+  {% endfor %}
+
+  {% assign category = null %}
+  {% assign images = null %}
+  {% assign images = site.gallery | sort: "category" %}
+  <div id="alltab" class="tab-pane fade active show">
+    <div class="row" style="">
+      {% for image in images %}
+      <div class="col-6 col-sm-4 col-md-3 col-lg-2">
+        <div id="documents" class="row">
+          <div class="">
+            <!-- doc summaries and links -->
+              <div class="img-fluid gallery-image-all">
+                  <a href="{{ image.img_url }}"><img data-src="{{ image.img_url }}" alt="{{ image.description }}" {% if image.member-name %} title="{{ image.description }} <br/> <span>Dentistry performed by: <a href='{{image.member-directory-url}}'>{{ image.member-name }}</a></span>"{% else %} title="{{image.description}}" {% endif %}></a>
+              </div>
+            <p class="small">
+              {{ image.procedure-name }}
+            </p>
+          </div>
+        </div><!--end inside row -->
+      </div><!--end columns row -->
+      {% endfor %}
+    </div><!--end outside row -->
+  </div>
+</div>
+{{ tab-nav }}
+</div>
+<script>
+$('.gallery-click').on('click', function (e) {
+	e.preventDefault();
+
+	$('html, body').animate({
+		scrollTop: $('#scroll-target').offset().top
+	}, 500, 'linear');
+});
+</script>

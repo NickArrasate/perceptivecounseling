@@ -1,0 +1,22 @@
+{% if page.author %}
+  {% assign author = site.bowtietheme.authors[page.author] %}
+{% endif %}
+
+<p class="post-meta">
+  {% if page.author %}
+  <!-- <img class="img img-circle post-avatar pull-left" src="{% if author.avatar %}{{ author.avatar }}{% else %}https://www.gravatar.com/avatar/{{ author.gravatar }}?s=64{% endif %}" /> -->
+  <span class="author">{{ author.display_name }}</span>
+    {% if author.twitter %}
+      <span class="author-twitter"><a href="//twitter.com/{{ author.twitter }}"><i class="icon-twitter icon-1x"></i></a></span>
+    {% endif %}
+    {% if author.medium %}
+      <span class="author-medium"><a href="//medium.com/{{ author.medium }}"><i class="icon-medium-icon icon-1x"></i></a></span>
+    {% endif %}
+    {% if author.github %}
+      <span class="author-github"><a href="//github.com/{{ author.github }}"><i class="icon-github icon-1x"></i></a></span>
+    {% endif %}
+  <!-- |&nbsp; -->
+  {% endif %}
+  {{ page.date | date: "%b %-d, %Y" }}
+  {% if page.meta %} | {{ page.meta }}{% endif %}
+</p>

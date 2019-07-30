@@ -1,0 +1,122 @@
+# Site settings
+title: "Perceptive Counseling"
+
+description: ""
+
+email: 'lucy@perceptivecounselingpdx.com'
+description:
+baseurl:  # the subpath of your site, e.g. /blog/
+
+url: "https://perceptivecounselingpdx.com" # the base hostname & protocol for the site
+
+logourl:  # Site logo
+
+author: "Lucy Sherman"
+author_thumbnail: "" # Author avatar
+
+# Theme additions - please update the default values
+
+
+google_analytics_id:   # Your google analytics ID (e.g. 'UA-XXXXXXXX-X')
+google_tag_manager: # Your google analytics ID (e.g. 'UA-XXXXXXXX-X')
+
+google_api_key:  # Your Google API key for Maps
+
+
+bowtietheme:
+
+  # Contact info, leave blank to ignore
+  contact:
+    company: Perceptive Counseling, LLC
+    address: 325 NW 21st Ave., Ste 102
+    city: Portland
+    state: OR
+    zip: 97209
+    country: USA
+    phone: (971) 220 5481
+    latlng:  # (e.g. '39.733536,-104.992611')
+    twitter:  # (e.g. 'bowtie_co')
+    facebook:  # (e.g. 'bowtieagency')
+    github:  # (e.g. 'bowtie-io')
+    instagram:  # (e.g. 'bowtieagency')
+    flickr: #groups/2772799@N24/ # (e.g. 'groups/2772799@N24/')
+    linkedin:  # (e.g. 'company/bowtie')
+    youtube: #channel/UCovWO5keLOLcLu8WdO-ABJw # (e.g. 'channel/UCovWO5keLOLcLu8WdO-ABJw')
+
+  # Author attribution data
+  authors:
+    chad:
+      display_name: Lucy Sherman
+      avatar:
+      gravatar: 82f60d4376bab6a31f85211a9345303f
+      email: chad@bowtie.co
+      web: https://bowtie.co/
+      twitter: chadperson
+      medium: no-buffer
+      github: chadperson
+      bio: Founder and CEO
+
+collections_dir: content
+
+collections:
+  sections:
+    output: false
+  pricing:
+    output: false
+  faq:
+    output: false
+  features:
+    output: false
+    permalink: /:path/
+  feature-blocks:
+    output: false
+    permalink: /:path/
+  posts:
+    output: true
+    permalink: /usage/:path/
+  team:
+    output: false
+    permalink: /:path/
+  testimonials:
+    output: false
+
+permalink: /:categories/:title/
+relative_permalinks: false
+
+
+# Server Config options
+livereload: false     # You no longer need to include --livereload
+reload_port: 5000    # If you don't want to use the default port
+carousel-speed: 5000 #set speed for all image sliders
+
+#toggle future post dates back on
+future: true
+
+#compress sass
+sass:
+  sass_dir: /assets/_sass
+
+
+# Build settings
+markdown: kramdown
+# kramdown:
+#   syntax_highlighter: false
+#   syntax_highlighter_opts:
+#     disable : true
+theme:
+plugins:
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - .gitignore
+  - .sass-cache
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+

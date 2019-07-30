@@ -1,0 +1,50 @@
+<!-- Social links are populated by your config.yml. Add any link you need. BowTie uses fonteawesome for icons -->
+
+<div class="row social-media">
+  <div>
+
+    {% if site.bowtietheme.contact.twitter %}
+    <a target="_blank" href="https://twitter.com/{{ site.bowtietheme.contact.twitter }}">
+      <i class="fa fa-2x fa-twitter"></i>
+    </a>
+    {% endif %}
+
+
+    {% if site.bowtietheme.contact.facebook %}
+    <a target="_blank" href="https://facebook.com/{{ site.bowtietheme.contact.facebook }}">
+      <i class="fa fa-2x fa-facebook-f"></i>
+    </a>
+    {% endif %}
+
+    {% if site.bowtietheme.contact.gitub %}
+    <a target="_blank" href="https://github.com/{{ site.bowtietheme.contact.github }}">
+      <i class="fa fa-2x fa-github"></i>
+    </a>
+    {% endif %}
+
+    {% if site.bowtietheme.contact.linkedin %}
+    <a target="_blank" href="https://linkedin.com/{{ site.bowtietheme.contact.linkedin }}">
+      <i class="fa fa-2x fa-linkedin"></i>
+    </a>
+    {% endif %}
+
+    {% if site.bowtietheme.contact.instagram %}
+    <a target="_blank" href="https://instagram.com/{{ site.bowtietheme.contact.instagram }}">
+      <i class="fa fa-2x fa-instagram"></i>
+    </a>
+    {% endif %}
+
+    {% if site.bowtietheme.contact.youtube %}
+    <!-- <a target="_blank" href="{{ site.bowtietheme.contact.youtube }}">
+      <i class="fa fa-2x fa-youtube"></i>
+    </a> -->
+    {% endif %}
+
+    {% if site.email %}
+    <a target="_blank" href="mailto:{{ site.email }}">
+      <i class="fa fa-2x fa-envelope"></i>
+    </a>
+    {% endif %}
+
+  </div>
+</div>

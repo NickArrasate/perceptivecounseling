@@ -1,0 +1,23 @@
+<header class="">
+  <nav id="nav" class="navbar navbar-expand-lg" role="navigation">
+      <a class="navbar-brand" href="/">
+        {% if site.navlogourl %}
+        <img src='{{site.navlogourl}}' alt='{{site.title.logo}} logo' />
+        {% else %}
+        <img src='/assets/images/header-logo.png' alt='shopstatus logo' />
+        {% endif %}
+      </a>
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navDropdown">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="fa fa-bars fa-lg"></span>
+        <span>&nbsp;Menu</span>
+      </button>
+      <div class="collapse navbar-collapse flex-row-reverse" id="navDropdown">
+        <ul class="nav navbar-nav">
+          <li>
+            <a class="page-link" href="{{site.login_url}}">Log In</a>
+          </li>
+        </ul>
+      </div>
+  </nav>
+</header>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  {% if page.masthead.img_path %}
+  <style type="text/css">
+     .masthead {
+       background: url("{{ page.masthead.img_path }}") no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-position: center center;
+      bottom: 0;
+      left: 0;
+      position: relative;
+      right: 0;
+      top: 0;
+      }
+      {% if page.masthead.overlay %}
+      .masthead:before {
+        content: '';
+      	position: absolute;
+      	top: 0;
+      	right: 0;
+      	bottom: 0;
+      	left: 0;
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9))
+      }
+      {% endif %}
+  </style>
+
+  {% endif %}
+
+  {% if page.masthead.pat_path %}
+  <style type="text/css">
+     .masthead {
+      background:url("{{ page.masthead.pat_path }}") repeat;
+      position: relative;
+      }
+      {% if page.masthead.overlay %}
+      .masthead:before {
+        content: '';
+      	position: absolute;
+      	top: 0;
+      	right: 0;
+      	bottom: 0;
+      	left: 0;
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9))
+      }
+      {% endif %}
+  </style>
+  {% endif %}
+
+  <body>
+    {% include tracking.html %}
+    <div class="blog">
+      {% include header.html %}
+      <div id="content">
+        <section class="post-head-wrap hero">
+          <div class="background-float"></div>
+          {% include post-header.html %}
+        </section>
+        <section>
+          <div class="container">
+            {{ content }}
+          </div>
+        </section>
+        {% if post.has_info_box %}
+        <section id="why" class="alt">
+          <div class="container box">
+            <div class="section-header">
+              <h2 class="title text-center">
+                <span class="underlined">ShopStatus Keeps You Informed</span>
+              </h2>
+            </div>
+            <div class="content section-content">
+              {% include widgets/why-us.html %}
+            </div>
+          </div>
+        </section>
+        {% endif %}
+      </div>
+      {% include footer.html %}
+      {% include cookie-consent.html %}
+    </div>
+    {% include tracking.html %}
+  </body>
+
+</html>

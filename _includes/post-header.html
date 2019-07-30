@@ -1,0 +1,11 @@
+<div class="post-header header-wrapper container">
+  <div class="col-12">
+    <h1 class="title text-center">{{ page.title }}</h1>
+    <h3 class="subtitle text-center">{{ page.subtitle_body }}</h3>
+  </div>
+  {% if page.masthead.img_path %}
+  <div class="col-sm-4 col-lg-6 small-hide text-center">
+    <img src="{{ page.masthead.img_path }}" style="max-width: 250px;" />
+  </div>
+  {% endif %}
+</div>

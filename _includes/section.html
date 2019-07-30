@@ -1,0 +1,113 @@
+{% assign sections = site.sections | where: "location", include.location  %}
+
+{% for section in sections %}
+<section {% if section.style.id %}id="{{section.style.id}}"{% endif %} class="{{section.style.class }}" >
+  {% include section-background.html %}
+  <a name="{{section.style.id}}"></a>
+  <div {% if section.style.container == true %}class="container box"{% else %}class="container"{% endif %} >
+    {% if section.head.title or section.head.img_path %}
+    <div class="section-header">
+    {% if section.head.img_path %}
+      <div class="header-wrapper {% if section.head.img_path %}row d-flex justify-content-center align-items-center{% endif %}">
+        {% if section.head.subtitle_content %}
+          {% if forloop.first == true %}
+          <div class="text-wrapper">
+            <h1 {% if section.head.color == 'white' %}class="title text-white text-center"{% else %} class="title text-center" {% endif %}>{{ section.head.title }}</h1>
+          {% else %}
+            <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+          {% endif %}
+          {% if forloop.first == true %}
+            <h3 class="subtitle">{{ section.head.subtitle_content }}</h3>
+          {% else %}
+            <h3 class="subtitle">{{ section.head.subtitle_content }}</h3>
+          {% endif %}
+
+          {% if section.cta %}
+            <br/>
+            <div class="cta">
+              {% if section.cta.headline %}
+              <h3>{{ section.cta.headline }}</h3>
+              {% endif %}
+              {% if section.cta.btnLink %}
+              <a href="{{section.cta.btnLink}}">
+                <button class="btn {{ section.cta.btnType }}">{{ section.cta.btnText }}</button>
+              </a>
+              {% endif %}
+              {% if section.cta.subtext %}
+              <h4>{{ section.cta.subtext }}</h4>
+              {% endif %}
+            </div>
+          {% endif %}
+          </div>
+
+        {% elsif section.head.title %}
+          {% if forloop.first == true %}
+          <div class="text-wrapper {% if section.head.img_path %}col-12 col-md-5 col-lg-4{% endif %}">
+            <h1 {% if section.head.color == 'white' %}class="title text-white"{% else %} class="title text-center" {% endif %}>{{ section.head.title }}</h1>
+          {% else %}
+            <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+          {% endif %}
+          </div>
+        {% endif %}
+      </div>
+    {% else %}
+      {% if section.head.subtitle_content %}
+        {% if forloop.first == true %}
+        <div class="row d-flex justify-content-center" >
+          <div class="col-12 col-md-10">
+            <h1 class="title">{{ section.head.title }}</h1>
+          </div>
+        </div>
+        {% else %}
+        <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+        {% endif %}
+        {% if forloop.first == true %}
+        <div class="row d-flex justify-content-center" >
+          <div class="col-11 col-md-10 col-lg-9">
+            <h2 class="subtitle test">{{ section.head.subtitle_content }}</h2>
+          </div>
+        </div>
+        {% else %}
+        <h3 class="subtitle">{{ section.head.subtitle_content }}</h3>
+        {% endif %}
+      {% elsif section.head.title %}
+        {% if forloop.first == true %}
+        <h1 class="title text-center">{{ section.head.title }}</h1>
+        {% else %}
+        <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+        {% endif %}
+      {% endif %}
+      {% endif %}
+    </div><!-- end section header -->
+    {% endif %}
+
+    <div class="content section-content">
+      {{ section.content }}
+    </div>
+
+    {% unless section.head.img_path %}
+      {% if section.cta %}
+        <div class="cta text-center">
+          {% if section.cta.headline %}
+          <h3>{{ section.cta.headline }}</h3>
+          {% endif %}
+          {% if section.cta.btnLink %}
+          <a href="{{section.cta.btnLink}}">
+            <button class="btn {{ section.cta.btnType }}">{{ section.cta.btnText }}</button>
+          </a>
+          {% endif %}
+          {% if section.cta.subtext %}
+          <h4>{{ section.cta.subtext }}</h4>
+          {% endif %}
+        </div>
+      {% endif %}
+    {% endunless %}
+  </div>
+</section>
+
+  {% if section.style.font_color %}
+    <style>
+    #{{section.style.id}}, #{{section.style.id}} h1, #{{section.style.id}} p, #{{section.style.id}} h2, #{{section.style.id}} h3, #{{section.style.id}} h4, #{{section.style.id}} h5, #{{section.style.id}} i, #{{section.style.id}} .row, #{{section.style.id}} p {color:{{section.style.font_color}} !important;}
+    </style>
+  {% endif %}
+{% endfor %}

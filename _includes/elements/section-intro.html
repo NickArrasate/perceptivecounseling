@@ -1,0 +1,7 @@
+{% assign intro-text =  page.url | split: "/" %}
+
+<div class="section-intro-box skew-bottom">
+  <div class="pattern-box">
+    <strong>{% for word in intro-text %}{% assign subword = word | split: "-"  %}<span {% if forloop.index0 == 1 and forloop.length > 2 %}class="lighter" {% endif %}>{% for item in subword %}{% if item == "asird" or item == "Asird" %}{{ item | upcase }}{% else %}{{ item | capitalize  }}{% endif %} {% endfor %}</span>{% if forloop.index0 == 1 and forloop.length > 2 %}{% endif %}{% endfor %}</strong>
+  </div>
+</div>

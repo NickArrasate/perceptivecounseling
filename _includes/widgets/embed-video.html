@@ -1,0 +1,10 @@
+
+{% if page.media.video_url %}
+<div class="embed-responsive embed-responsive-21by9 row-70" style="margin: 0 auto;">
+  <iframe title="video" class="embed-video-item" src="{{ page.media.video_url }}" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+{% elsif page.media.team-image %}
+<div class="image-wrapper row-70">
+  <img data-src="{{page.media.team-image}}" alt="team image">
+</div>
+{% endif %}

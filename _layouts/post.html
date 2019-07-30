@@ -1,0 +1,13 @@
+---
+layout: blog
+---
+{% if page.author %}
+  {% assign author = site.bowtietheme.authors[page.author] %}
+{% endif %}
+
+<div class="post col-12 container">
+  <article class="post-content blog-post-content">
+    {{ content }}
+  </article>
+</div>
+<br />
