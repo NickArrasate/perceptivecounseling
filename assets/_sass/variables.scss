@@ -3,9 +3,8 @@
 //--------------------------
 
 /* FONTS */
-
-@import url('https://fonts.googleapis.com/css?family=Lato:400,300,700|Oswald:400,300,600');
-@import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
+// @import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif&display=swap');@import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
 //@import url('/assets/fonts/TruenoRg.otf');
 // @font-face {
 //   font-family: 'Trueno';
@@ -60,7 +59,7 @@ $font-size-small: ceil(($font-size-base * 0.85)) !default;
 
 // Main theme colors
 $theme-primary-color:#000 !default;
-$theme-secondary-color: #f4f4f4 !default;
+$theme-secondary-color: F8F8F8 !default;
 $theme-blue-color: #464CE9 !default;
 $theme-success-color: #A1E858 !default;
 $theme-danger-color: #D0021B !default;
@@ -71,13 +70,13 @@ $theme-gray-color: #BBB8B3 !default;
 $theme-dark-gray-color: #3b3b3a !default;
 // Text
 $theme-text-color: #000 !default;
-$theme-off-white-color: #F3F4F4 !default;
+$theme-off-white-color: #F8F8F8 !default;
 
 // Banners
 $theme-dark-banner-color: #3B3B3A !default;
 
 // Backgrounds
-$theme-gray-gradient: linear-gradient(to bottom, #fff, #eee) !default;
+$theme-gray-gradient: linear-gradient(to bottom, #F8F8F8, #F8F8F8) !default;
 $theme-dark-bg: #333 !default;
 $theme-nav-toggler-icon-svg: "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(251, 168, 25, 1)' stroke-width='4' stroke-linecap='square' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E";
 $gradient-bg: linear-gradient(160deg, rgba(236, 236, 236, 0.31), rgba(149, 149, 149, 0.31) 33%, rgba(225, 225, 225, 0.31) 49%, rgba(89, 89, 89, 0.31));
@@ -89,17 +88,17 @@ $input-placeholder-color: rgba(0, 0, 0, 0.5) !default;
 
 // from jekyll sitefavicon.png
 
-$heading-font: 'Oswald'; /** h1, h2, h3, h4, h5 **/
+$heading-font: 'PT Serif'; /** h1, h2, h3, h4, h5 **/
 $heading-font-weight: 600;
 $heading-font-color: #000;
 
-$subheading-font: 'Oswald'; /** h3, h4, h5 **/
+$subheading-font: 'PT Serif'; /** h3, h4, h5 **/
 $subheading-font-weight: 400;
 // $subheading-font-color: #047ac7;
 $subheading-font-color: #333;
 
-$primary-font: 'Lato'; /** body, p **/
-$primary-font-weight: 300;
+$primary-font: 'PT Sans'; /** body, p **/
+$primary-font-weight: 400;
 $primary-font-color: #000;
 
 $link-color: #464CE9;
@@ -113,12 +112,12 @@ $nav-font-color: #333;
 $nav-hover-font-color: #222;
 
 $footer: #000;
-$footer-font-color: #fff;
-$footer-link-color: #fff;
+$footer-font-color: #F8F8F8;
+$footer-link-color: #F8F8F8;
 $footer-link-hover-color: null;
 $subfooter-bg: #000;
-$subfooter-font-color: #D8D8D8;
-$subfooter-link-color: #D8D8D8;
+$subfooter-font-color: #F8F8F8;
+$subfooter-link-color: #F8F8F8;
 $footer-icon-color: null;
 $footer-border: none;
 
@@ -133,7 +132,7 @@ $section-heading-font-color: null;
 $section-subheading-font-color: null;
 $section-link-color: null;
 $section-link-hover-color: null;
-$section-bg: #fff;
+$section-bg: #F8F8F8;
 
 $section-bgclear-font-color: #fff;
 $section-bgclear-heading-font-color: null;
@@ -148,16 +147,16 @@ $section-alt-link-color: null;
 $section-alt-link-hover-color: null;
 $section-alt-bg: #ccc;
 
-$section-dark-font-color: #fff;
-$section-dark-heading-font-color: #eee;
-$section-dark-subheading-font-color: #fff;
+$section-dark-font-color: #F8F8F8;
+$section-dark-heading-font-color: #F8F8F8;
+$section-dark-subheading-font-color: #F8F8F8;
 $section-dark-link-color: null;
 $section-dark-link-hover-color: null;
-$section-dark-bg: #333;
+$section-dark-bg: #223127;
 $section-dark-bg-grad: linear-gradient(88deg, #333, #efefef);
 
-$section-grey-font-color: #fff;
-$section-grey-heading-font-color: #eee;
+$section-grey-font-color: #A89B9D;
+$section-grey-heading-font-color: #223127;
 $section-grey-subheading-font-color: null;
 $section-grey-link-color: null;
 $section-grey-link-hover-color: null;
@@ -167,8 +166,8 @@ $section-grey-bg: #efefef;
 
 $btn-font-color: #fff;
 $radius: 0;
-$default: #f19100;
-$default-hover: #df8600;
+$default: #357266;
+$default-hover: #357266;
 $default-font-color: null;
 $pink: #c737b2;
 $pink-hover: #c737b2;

@@ -4,14 +4,14 @@
 
 layout: home
 published: true
-permalink: /fees
+permalink: /emdr
 seo:
-  title: "Perceptive Counseling - Fees"
+  title: "Perceptive Counseling - EMDR"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."
   canonical: null
   noindex: false
 social:
-  title: "Perceptive Counseling - Fees"
+  title: "Perceptive Counseling - EMDR"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."
   img_path: '/assets/images/shopstatus-social-share-img.png'
   twitter:
@@ -20,4 +20,4 @@ social:
     cardtype: null
 ---
 
-{% include section.html location="home" %}
+{% include section.html location="emdr" %}
