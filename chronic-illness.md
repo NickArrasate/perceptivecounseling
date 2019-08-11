@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-published: false
+published: true
 permalink: /chronic-illness
 seo:
   title: "Perceptive Counseling"
@@ -20,4 +20,4 @@ social:
     cardtype: null
 ---
 
-{% include section.html location="contact" %}
+{% include section.html location="chronic-illness" %}

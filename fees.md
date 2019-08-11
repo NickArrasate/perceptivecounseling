@@ -20,4 +20,4 @@ social:
     cardtype: null
 ---
 
-{% include section.html location="home" %}
+{% include section.html location="fees" %}

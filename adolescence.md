@@ -20,4 +20,4 @@ social:
     cardtype: null
 ---
 
-{% include section.html location="contact" %}
+{% include section.html location="adolescence" %}

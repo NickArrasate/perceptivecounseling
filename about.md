@@ -18,3 +18,4 @@ social:
     cardtype: null
 
 ---
+{% include section.html location="about" %}
