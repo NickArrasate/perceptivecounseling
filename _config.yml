@@ -44,17 +44,7 @@ bowtietheme:
     youtube: #channel/UCovWO5keLOLcLu8WdO-ABJw # (e.g. 'channel/UCovWO5keLOLcLu8WdO-ABJw')
 
   # Author attribution data
-  authors:
-    chad:
-      display_name: Lucy Sherman
-      avatar:
-      gravatar: 82f60d4376bab6a31f85211a9345303f
-      email: chad@bowtie.co
-      web: https://bowtie.co/
-      twitter: chadperson
-      medium: no-buffer
-      github: chadperson
-      bio: Founder and CEO
+
 
 collections_dir: content
 
