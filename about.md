@@ -2,7 +2,7 @@
 layout: home
 title: About
 permalink: /about/
-published: false
+published: true
 seo:
   title: "Perceptive Counseling"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."
