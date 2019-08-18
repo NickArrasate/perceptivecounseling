@@ -1,10 +1,7 @@
 # Site settings
 title: "Perceptive Counseling"
-
-description: ""
-
 email: 'lucy@perceptivecounselingpdx.com'
-description:
+description: "Lucy's work site"
 baseurl:  # the subpath of your site, e.g. /blog/
 
 url: "https://perceptivecounselingpdx.com" # the base hostname & protocol for the site
@@ -24,7 +21,6 @@ google_api_key:  # Your Google API key for Maps
 
 
 bowtietheme:
-
   # Contact info, leave blank to ignore
   contact:
     company: Perceptive Counseling, LLC
@@ -99,6 +95,7 @@ markdown: kramdown
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
+  - _site
   - .gitignore
   - .sass-cache
 #   - Gemfile
