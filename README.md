@@ -1,6 +1,4 @@
-# ShopStatus Marketing
-Support website for ShopStatus
+# Perceptive Counseling
+Lucy Sherman's counseling site.
 
-Deploys from RazorSite and available at shopstatus.com.
-
-https://github.com/bowtie-co/shopstatus-marketing-site
+Deploys from RazorSite and available at perceptivecounslelingpdx.com.
