@@ -28,16 +28,11 @@ cta:
   subtext: null
 
 ---
-
-
-
-<div class="d-flex align-items-center justify-content-around row">
-<div class="col-sm-10 col-md-8 col-lg-6">
-<p>There are moments where you think, &ldquo;Maybe that thing that I had to go through impacts how I am now, makes me more anxious than I need to be, maybe making it difficult for me to trust/open up/ feel secure/ feel happy/and inevitably affecting the way I live my life.&rdquo;</p>
-<p>Whether one big incident of trauma or many small ones over time, what we experience and how we think about it can influence the way we interact with ourselves and with others.</p>
-</div>
-<div class="col-12 d-flex align-items-center justify-content-around" style="margin-top: 1.5em;"><a href="https://www.emdria.org/page/what_is_emdr_therapy" target="_blank" rel="noopener"><button class="request-button">Learn More About EMDR</button></a></div>
-</div>
-
-
-
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">At both the Domestic Violence Resource Center as well as the psychiatric day treatment program with Trillium Family Services I have seen parents trying so hard to reach their teen and yet their teen is not ready to be reached by the parent.&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You could be doing everything right, and yet it is just not the right time.&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">There are so many changes and transitions, the brain is developing, relationships are changing and starting and it can feel like you are losing your teen.&nbsp;&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">I am here to create a safe space for your teen to talk about what they are going through.&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">It is my goal to collaborate with your teen, provide guidance around communicating needs, setting boundaries and asking for help. I have found these three things can be really difficult in the teenage years and can have a big impact on self concept, awareness and autonomy. </span></p>
