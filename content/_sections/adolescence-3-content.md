@@ -28,6 +28,7 @@ cta:
   subtext: null
 
 ---
+
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p><span id="docs-internal-guid-7ca6842d-7fff-993b-27b7-1ae7a9e5c50e"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">At both the Domestic Violence Resource Center as well as the psychiatric day treatment program with Trillium Family Services I have seen parents trying so hard to reach their teen and yet their teen is not ready to be reached by the parent.</span></span></p>
@@ -40,3 +41,4 @@ cta:
 <p><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span></p>
 </div>
 </div>
+
