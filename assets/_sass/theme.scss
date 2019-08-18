@@ -279,6 +279,9 @@ section.grey{
 .nav-btn{
   background: transparent;
   border: 0;
+  @include media(sm){
+    margin-right: 0;
+  }
 }
 .footer-nav-list{
   list-style: none;
@@ -629,10 +632,15 @@ section.grey{
     top: 106px;
     right: 0px;
     width: 360px;
+    z-index: 100;
     ul{
       display: flex;
       flex-direction: column;
       align-items: flex-end;
+      @media screen and (max-width: 992px){
+        align-items: flex-start;
+      }
+      
       li > a{
         color: white;
         &:hover{
@@ -642,6 +650,19 @@ section.grey{
     }
   }
 }
+.btn-secondary:not(:disabled):not(.disabled):active:focus, .show>.btn-secondary.dropdown-toggle:focus{
+  box-shadow: none !important;
+}
+@media screen and (max-width: 992px){
+  .dropdown-menu.show{
+    background: transparent;
+    border: none;
+  }
+  .dropdown-item{
+    font-size: 90%;
+  }
+}
+
 .featured-image-box{
   padding: 1em;
   background-color: #fff;
