@@ -4,7 +4,7 @@
 
 layout: home
 published: true
-permalink: /fees
+permalink: /fees/
 seo:
   title: "Perceptive Counseling - Fees"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."

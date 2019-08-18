@@ -4,7 +4,7 @@
 
 layout: home
 published: true
-permalink: /emdr
+permalink: /emdr/
 seo:
   title: "Perceptive Counseling - EMDR"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."
