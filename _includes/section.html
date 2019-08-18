@@ -30,7 +30,7 @@
               {% endif %}
               {% if section.cta.btnLink %}
               <a href="{{section.cta.btnLink}}">
-                <button class="btn {{ section.cta.btnType }}">{{ section.cta.btnText }}</button>
+                <button class="{{ section.cta.btnType }}">{{ section.cta.btnText }}</button>
               </a>
               {% endif %}
               {% if section.cta.subtext %}
@@ -93,7 +93,7 @@
           {% endif %}
           {% if section.cta.btnLink %}
           <a href="{{section.cta.btnLink}}">
-            <button class="btn {{ section.cta.btnType }}">{{ section.cta.btnText }}</button>
+            <button class="{{ section.cta.btnType }}">{{ section.cta.btnText }}</button>
           </a>
           {% endif %}
           {% if section.cta.subtext %}
