@@ -1,5 +1,5 @@
 ---
-location: emdr
+location: adolescence
 head:
   title: null
   subtitle_content: null
@@ -30,6 +30,7 @@ cta:
 ---
 
 
+
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p>There are moments where you think, &ldquo;Maybe that thing that I had to go through impacts how I am now, makes me more anxious than I need to be, maybe making it difficult for me to trust/open up/ feel secure/ feel happy/and inevitably affecting the way I live my life.&rdquo;</p>
@@ -37,5 +38,6 @@ cta:
 </div>
 <div class="col-12 d-flex align-items-center justify-content-around" style="margin-top: 1.5em;"><a href="https://www.emdria.org/page/what_is_emdr_therapy" target="_blank" rel="noopener"><button class="request-button">Learn More About EMDR</button></a></div>
 </div>
+
 
 
