@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-published: false
+published: true
 permalink: /adolescence-counseling
 seo:
   title: "Perceptive Counseling"

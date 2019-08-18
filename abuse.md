@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-published: false
-permalink: /emotional-and-physical-abuse
+published: true
+permalink: '/emotional-and-physical-abuse/'
 seo:
   title: "Perceptive Counseling"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."
