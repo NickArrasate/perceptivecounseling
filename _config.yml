@@ -46,7 +46,7 @@ bowtietheme:
   # Author attribution data
 
 
-collections_dir: content
+collections_dir: 'content'
 
 collections:
   sections:
