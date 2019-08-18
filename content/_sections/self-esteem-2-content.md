@@ -1,5 +1,5 @@
 ---
-location: adolescence
+location: self-esteem
 head:
   title: null
   subtitle_content: null
@@ -28,10 +28,13 @@ cta:
   subtext: null
 
 ---
-
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><strong>Parents, I want to support your teen as they navigate the difficulties of growing up. I want to help you feel some peace of mind around knowing that your teen is getting the tools to communicate needs, develop boundaries and gain self love so they can move toward becoming independent and wise even in the most hard times in their life.</strong> </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Do you ever notice the words, &ldquo;I&rsquo;m not good enough,&rdquo; &ldquo;I&rsquo;m not worthy,&rdquo; or &ldquo;I&rsquo;m worthless&rdquo; come into your mind?</span><strong id="docs-internal-guid-8ac47a22-7fff-282e-1efc-682504382eaf" style="font-weight: normal;"></strong></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Are there times where, even when things are ok, you still feel a sense of uneasiness and doubt?</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Are there parts of yourself that you have wanted to share but worried they won&rsquo;t be received?&nbsp;</span></p>
+<p><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
-
