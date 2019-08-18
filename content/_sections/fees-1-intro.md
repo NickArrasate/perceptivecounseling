@@ -1,7 +1,7 @@
 ---
-location: adolescence
+location: fees
 head:
-  title: Adolescence (14-18)
+  title: Fees
   subtitle_content: null
   img_path: null
 style:
@@ -22,6 +22,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 
