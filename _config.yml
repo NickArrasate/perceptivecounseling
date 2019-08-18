@@ -32,18 +32,7 @@ bowtietheme:
     phone: (971) 220 5481
     latlng:  # (e.g. '39.733536,-104.992611')
     twitter:  # (e.g. 'bowtie_co')
-    facebook:  # (e.g. 'bowtieagency')
-    github:  # (e.g. 'bowtie-io')
-    instagram:  # (e.g. 'bowtieagency')
-    flickr: #groups/2772799@N24/ # (e.g. 'groups/2772799@N24/')
-    linkedin:  # (e.g. 'company/bowtie')
-    youtube: #channel/UCovWO5keLOLcLu8WdO-ABJw # (e.g. 'channel/UCovWO5keLOLcLu8WdO-ABJw')
-
-  # Author attribution data
-
-
 collections_dir: 'content'
-
 collections:
   sections:
     output: false
