@@ -31,7 +31,9 @@ cta:
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p><span id="docs-internal-guid-7ca6842d-7fff-993b-27b7-1ae7a9e5c50e"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">At both the Domestic Violence Resource Center as well as the psychiatric day treatment program with Trillium Family Services I have seen parents trying so hard to reach their teen and yet their teen is not ready to be reached by the parent.</span></span></p>
-<p>Whether one big incident of trauma or many small ones over time, what we experience and how we think about it can influence the way we interact with ourselves and with others.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You could be doing everything right, and yet it is just not the right time.&nbsp;</span></p>
+<p><span id="docs-internal-guid-dabec5c9-7fff-e0e2-318c-62d97f67a8a4">&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">There are so many changes and transitions, the brain is developing, relationships are changing and starting and it can feel like you are losing your teen. </span></p>
 </div>
 <div class="col-12 d-flex align-items-center justify-content-around" style="margin-top: 1.5em;"><a href="https://www.emdria.org/page/what_is_emdr_therapy" target="_blank" rel="noopener"><button class="request-button">Learn More About EMDR</button></a></div>
 </div>
