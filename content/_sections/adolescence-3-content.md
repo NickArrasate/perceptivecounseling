@@ -35,5 +35,10 @@ cta:
 <p><span id="docs-internal-guid-dabec5c9-7fff-e0e2-318c-62d97f67a8a4">&nbsp;</span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">There are so many changes and transitions, the brain is developing, relationships are changing and starting and it can feel like you are losing your teen. </span></p>
 </div>
-<div class="col-12 d-flex align-items-center justify-content-around" style="margin-top: 1.5em;"><a href="https://www.emdria.org/page/what_is_emdr_therapy" target="_blank" rel="noopener"><button class="request-button">Learn More About EMDR</button></a></div>
+<div class="col-12 d-flex align-items-center justify-content-around" style="margin-top: 1.5em;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">I am here to create a safe space for your teen to talk about what they are going through.&nbsp;</span></p>
+<span><span><br /></span></span>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">It is my goal to collaborate with your teen, provide guidance around communicating needs, setting boundaries and asking for help. These three things can be really difficult in the teenage years and can have a big impact on self concept, awareness and autonomy. </span></p>
+<p><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span></p>
+</div>
 </div>
