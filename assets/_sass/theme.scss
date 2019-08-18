@@ -119,7 +119,7 @@ h3, h4 {
   font-family: $subheading-font;
 }
 
-body, p, span {
+body, p, span:not(.fa) {
 font-family: $primary-font, sans-serif !important;
 font-weight: $primary-font-weight !important;
 color: $primary-font-color !important;
