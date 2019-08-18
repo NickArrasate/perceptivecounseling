@@ -1,7 +1,7 @@
 ---
-location: adolescence
+location: self-esteem
 head:
-  title: Adolescence (14-18)
+  title: Self-Esteem
   subtitle_content: null
   img_path: null
 style:
@@ -22,6 +22,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 
