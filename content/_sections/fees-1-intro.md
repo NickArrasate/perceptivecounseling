@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566232740372_url_path_jason-leung-UMncYEfO9-U-unsplash.jpg
+        /upload/image/jpeg/1566233366407_url_path_jason-leung-UMncYEfO9-U-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,4 +23,6 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
