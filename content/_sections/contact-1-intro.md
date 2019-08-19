@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566178977085_url_path_mona-eendra-vC8wj_Kphak-unsplash.jpg
+        /upload/image/jpeg/1566193663886_url_path_orlova-maria-Q3Ea7QQQ6MA-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,4 +23,6 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
