@@ -1,5 +1,5 @@
 ---
-location: emdr
+location: contact
 head:
   title: null
   subtitle_content: null
@@ -28,11 +28,5 @@ cta:
   subtext: null
 
 ---
-
-<div class="d-flex align-items-center justify-content-around row">
-<div class="col-sm-10 col-md-8 col-lg-6">
-<p><strong>Every time you think of past memories your heart starts beating faster, you get tightness in your throat, and you breathe heavier.</strong></p>
-<p><strong>You wonder, <em>"Is there ever a time where maybe these memories won&rsquo;t make me feel like I am living them all over again?&rdquo;</em></strong></p>
-</div>
-</div>
-
+<p>I would love to connect with you.Once you submit your interest message in the confidential box below, I will send you my personal disclosure statement.You are welcome to read and decide if you want to follow with a 20 minute free phone consultation.&nbsp;</p>
+<p>If thinking about talking on the phone makes you uncomfortable and you would rather just write back and forth, I can offer a 20 minute confidential google chat option in the place of the phone call.&nbsp;</p>
