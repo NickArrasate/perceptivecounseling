@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566178776651_url_path_ferdinand-stohr-iW1WzbuWMcA-unsplash.jpg
+        /upload/image/jpeg/1566193343588_url_path_erol-ahmed-wKTF65TcReY-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
