@@ -28,5 +28,11 @@ cta:
   subtext: null
 
 ---
-<p>I would love to connect with you. Once you submit your interest message in the confidential box below, I will send you an email with my personal disclosure statement.You are welcome to read and decide if you want to follow with a 20 minute free phone consultation.&nbsp;</p>
-<p>If just thinking about talking on the phone to someone you don't know yet makes you uncomfortable and you would rather just write back and forth, I can offer a 20 minute confidential google chat option in the place of the phone call.&nbsp;</p>
+<div class="d-flex align-items-center justify-content-around row">
+<div class="col-sm-10 col-md-8 col-lg-6">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 10.5pt; font-family: Verdana; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">I would love to connect with you. Once you submit your interest message in the confidential box below, I will send you my personal disclosure statement.You are welcome to read and decide if you want to follow with a 20 minute free phone consultation.&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;"><span style="font-size: 10.5pt; font-family: Verdana; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">If just thinking about talking on the phone to someone you don't know yet makes you uncomfortable and you would rather just write back and forth, I can offer a 20 minute confidential google chat option in the place of the phone call.&nbsp;</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><strong><span id="docs-internal-guid-bf56b720-7fff-267c-f80a-cc90875e0e67"><span style="font-size: 12pt; font-family: 'Times New Roman'; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Parents, I want to support your teen as they navigate the difficulties of growing up. I want to help you feel some peace of mind around knowing that your teen is getting the tools to communicate needs, develop boundaries and gain self love so they can move toward becoming independent and wise even in the most hard times in their life.</span></span></strong></p>
+<p>&nbsp;</p>
+</div>
+</div>
