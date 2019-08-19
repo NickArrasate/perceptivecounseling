@@ -1,7 +1,7 @@
 ---
 location: home
 head:
-  title: Welcome
+  title: contact
   subtitle_content: null
   img_path: null
 style:
@@ -22,6 +22,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 
