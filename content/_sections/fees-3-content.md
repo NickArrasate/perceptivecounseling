@@ -28,16 +28,14 @@ cta:
   subtext: null
 
 ---
-
-
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
-<p><span id="docs-internal-guid-7ca6842d-7fff-993b-27b7-1ae7a9e5c50e"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">At both the Domestic Violence Resource Center as well as the psychiatric day treatment program with Trillium Family Services I have seen parents trying so hard to reach their teen and yet their teen is not ready to be reached by the parent.</span></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You could be doing everything right, and yet it is just not the right time.&nbsp;</span></p>
-<p><span id="docs-internal-guid-dabec5c9-7fff-e0e2-318c-62d97f67a8a4">&nbsp;</span><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">There are so many changes and transitions, the brain is developing, relationships are changing and starting and it can feel like you are losing your teen. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">I am here to create a safe space for your teen to talk about what they are going through. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">It is my goal to collaborate with your teen and help instill coping skills and their own self awareness so they can support themselves when you are not there. </span></p>
+<h2 dir="ltr" style="line-height: 1.2; text-align: center; margin-top: 17pt; margin-bottom: 0pt; padding: 0pt 0pt 5pt;">&nbsp;</h2>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Cancellation Policy</span></strong></p>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You will not be charged for a missed session if you provide me with 24 hours&rsquo; notice. <strong>Cancellations with no notice or notice under 24 hours will incur a fee equal to one session cost.</strong></span></p>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap; text-align: center;">Insurance Reimbursement</span></strong></p>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 27pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">I do not currently bill insurance. If you wish to see me using your out-of-network benefits, I can provide you with a &ldquo;superbill&rdquo; to submit to your insurance company for reimbursement. You will be responsible for ensuring your insurance company reimburses for out-of-network services and for submitting your claims.</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
-
-
