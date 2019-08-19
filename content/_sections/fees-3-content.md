@@ -28,10 +28,8 @@ cta:
   subtext: null
 
 ---
-
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
-<h2 dir="ltr" style="line-height: 1.2; text-align: center; margin-top: 17pt; margin-bottom: 0pt; padding: 0pt 0pt 5pt;">&nbsp;</h2>
 <p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Cancellation Policy</span></strong></p>
 <p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You will not be charged for a missed session if you provide me with 24 hours&rsquo; notice. <strong>Cancellations with no notice or notice under 24 hours will incur a fee equal to one session cost.</strong></span></p>
 <p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
@@ -40,4 +38,3 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
-
