@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566193663886_url_path_orlova-maria-Q3Ea7QQQ6MA-unsplash.jpg
+        /upload/image/jpeg/1566194053725_url_path_bryce-evans-76LxMoNfwY8-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,6 +23,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 
