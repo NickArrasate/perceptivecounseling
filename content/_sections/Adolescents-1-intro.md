@@ -10,7 +10,7 @@ style:
   font_color: null
   media:
     img:
-      url_path: /assets/images/nicolette-meade-RL3F99l0XYE-unsplash.jpg
+      url_path: /upload/image/jpeg/1566179405403_url_path_w-qjCHPZbeXCQ-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -22,8 +22,6 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
 
 
 
