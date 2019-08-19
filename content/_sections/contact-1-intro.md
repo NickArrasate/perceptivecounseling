@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566195141206_url_path_liana-mikah-_oJ9siW6rFA-unsplash.jpg
+        /upload/image/jpeg/1566195978360_url_path_aaron-burden-Bpe_qXKhI0w-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -24,6 +24,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 
