@@ -13,7 +13,7 @@ seo:
 social:
   title: "Perceptive Counseling"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."
-  img_path: '/assets/images/shopstatus-social-share-img.png'
+  img_path: '/assets/images/71.jpg'
   twitter:
     author: null
     publisher: null

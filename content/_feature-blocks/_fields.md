@@ -1,5 +1,5 @@
 ---
-img_path: '/assets/images/shopstatus-social-share-img.png'
+img_path: '/assets/images/71.jpg'
 img_1_path:
 img_2_path:
 img_3_path:
