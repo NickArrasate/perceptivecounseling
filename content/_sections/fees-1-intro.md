@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566193343588_url_path_erol-ahmed-wKTF65TcReY-unsplash.jpg
+        /upload/image/jpeg/1566232740372_url_path_jason-leung-UMncYEfO9-U-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
