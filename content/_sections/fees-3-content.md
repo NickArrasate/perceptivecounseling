@@ -1,5 +1,5 @@
 ---
-location: adolescence
+location: fees
 head:
   title: null
   subtitle_content: null
@@ -29,6 +29,7 @@ cta:
 
 ---
 
+
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p><span id="docs-internal-guid-7ca6842d-7fff-993b-27b7-1ae7a9e5c50e"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">At both the Domestic Violence Resource Center as well as the psychiatric day treatment program with Trillium Family Services I have seen parents trying so hard to reach their teen and yet their teen is not ready to be reached by the parent.</span></span></p>
@@ -38,4 +39,5 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">It is my goal to collaborate with your teen and help instill coping skills and their own self awareness so they can support themselves when you are not there. </span></p>
 </div>
 </div>
+
 
