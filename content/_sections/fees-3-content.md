@@ -35,6 +35,9 @@ cta:
 <p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 0pt;"><strong><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap; text-align: center;">Insurance Reimbursement</span></strong></p>
 <p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 27pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">I do not currently bill insurance. If you wish to see me using your out-of-network benefits, I can provide you with a &ldquo;superbill&rdquo; to submit to your insurance company for reimbursement. You will be responsible for ensuring your insurance company reimburses for out-of-network services and for submitting your claims.</span></p>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 27pt;"><strong><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Sliding Scale</span></strong></p>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 27pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">If my fees are a barrier to you getting the support you need, please feel free to inquire about my sliding scale spots. </span></p>
+<p dir="ltr" style="line-height: 2.4; margin-top: 0pt; margin-bottom: 27pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
