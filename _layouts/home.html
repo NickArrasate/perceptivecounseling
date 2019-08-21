@@ -6,6 +6,7 @@
         {% include header.html %}
       <div class="{{page.layout}}">
         {{ content }}
+        {% unless page.permalink == "/contact/" %}{% include section.html location="uni" %}{% endunless %}
       </div>
     </div>
   </div>
