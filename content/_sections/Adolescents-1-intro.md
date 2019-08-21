@@ -10,7 +10,8 @@ style:
   font_color: null
   media:
     img:
-      url_path: /upload/image/jpeg/1566179405403_url_path_w-qjCHPZbeXCQ-unsplash.jpg
+      url_path: >-
+        /upload/image/jpeg/1566193084859_url_path_samuel-scrimshaw-ebbFZvavGy4-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -22,6 +23,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 

@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566178977085_url_path_mona-eendra-vC8wj_Kphak-unsplash.jpg
+        /upload/image/jpeg/1566195978360_url_path_aaron-burden-Bpe_qXKhI0w-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -19,8 +19,21 @@ style:
     video:
       url_path: null
       type: null
-      posterurl_path: null
+      posterurl_path: >-
+        /upload/image/jpeg/1566195883231_posterurl_path_aaron-burden-Bpe_qXKhI0w-unsplash.jpg
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 

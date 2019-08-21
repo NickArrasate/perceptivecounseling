@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566178776651_url_path_ferdinand-stohr-iW1WzbuWMcA-unsplash.jpg
+        /upload/image/jpeg/1566234899745_url_path_ishan-seefromthesky-FshkDiD1OWs-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,4 +23,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
+
+
 
