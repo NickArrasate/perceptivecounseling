@@ -28,6 +28,7 @@ cta:
   subtext: null
 
 ---
+
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Both<strong> you</strong> <strong>teen</strong> and<strong> you parent</strong> are working to figure out the new balance,<strong> you</strong> <strong>parent</strong> are hoping your teen is safe, learning tools that can help them navigate healthy and unhealthy relationships in their life. <strong>You</strong> <strong>parent</strong> want the best for your teen, you have worked up until this point to make sure they are with the right people doing the right thing. <strong>You teen</strong> are wanting to make decisions on your own, have some autonomy and be trusted. </span></p>
@@ -39,3 +40,4 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
+
