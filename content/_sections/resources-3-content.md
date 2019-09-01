@@ -1,5 +1,5 @@
 ---
-location: Resources
+location: resources
 head:
   title: null
   subtitle_content: null
