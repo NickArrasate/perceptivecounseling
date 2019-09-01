@@ -28,7 +28,7 @@ cta:
   subtext: null
 
 ---
-<div class="d-flex align-items-center justify-content-around row">
+<div class=" row">
 <h4>Crisis Numbers:</h4>
 <ul>
   <li>Clackamas County: 503-655-8585</li>
