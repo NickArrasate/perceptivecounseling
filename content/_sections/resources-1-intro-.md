@@ -3,7 +3,8 @@ location: Resounces
 head:
   title: Resources
   subtitle_content: null
-  img_path: null
+  img_path: >-
+    /upload/image/jpeg/1567376169673_img_path_mona-eendra-vC8wj_Kphak-unsplash.jpg
 style:
   id: null
   class: image-right text-white
@@ -23,10 +24,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
-
-
 
