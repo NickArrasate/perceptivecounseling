@@ -48,7 +48,7 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 3.75pt 0pt;"><span style="background-color: transparent; font-size: 12pt; white-space: pre-wrap;">Lines for Life</span></p>
 </li>
 </ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 3.75pt 0pt;"><strong><span style="background-color: transparent; font-size: 12pt; white-space: pre-wrap;">Low Cost Counseling in the Community:</span></strong></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 3.75pt 0pt;"><strong><span style="background-color: transparent; font-size: 12pt; white-space: pre-wrap;">Low-Cost Counseling in the Community:</span></strong></p>
 <ul style="margin-top: 0; margin-bottom: 0;">
 <li dir="ltr" style="list-style-type: disc; font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre;">
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><a style="text-decoration-line: none;" href="https://www.pdx.edu/coun/clinic"><span style="font-size: 12pt; color: #000000; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Portland State University Community Counseling Clinic</span></a></p>
