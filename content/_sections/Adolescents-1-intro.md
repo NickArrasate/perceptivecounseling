@@ -1,7 +1,7 @@
 ---
 location: adolescence
 head:
-  title: Adolescence (14-18)
+  title: Adolescence (16-18)
   subtitle_content: null
   img_path: null
 style:
