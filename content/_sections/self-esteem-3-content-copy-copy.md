@@ -28,7 +28,6 @@ cta:
   subtext: null
 
 ---
-
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">I offer you a safe environment in which we can explore together where these beliefs and feelings about yourself come from.</span></p>
@@ -37,8 +36,7 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">The clients I work with have been striving for autonomy and happiness while they hold this heavy sentiment that they are not worth it or are undeserving.</span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">I have helped people explore the root of that sentiment while they find compassion for themselves. I have seen the impact this process can have on a person&rsquo;s move toward the life they hope for no matter what has happened to them.&nbsp; </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">I have helped people explore the root of that sentiment while they find compassion for themselves and what they have had to go through.. I have seen the impact that counseling can have on a person's sense of self and movement toward what they want and I am honored to be part of the collaborative process. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
-
