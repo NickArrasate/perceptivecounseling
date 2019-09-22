@@ -10,8 +10,7 @@ style:
   font_color: null
   media:
     img:
-      url_path: >-
-        /upload/image/jpeg/1569182802714_url_path_decor-flatlay-from-above-1470171.jpg
+      url_path: /upload/image/jpeg/1569183222476_url_path_smallsucculants.jpg
       pattern: false
       parallax: false
       overlay: light
