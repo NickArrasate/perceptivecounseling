@@ -1,7 +1,7 @@
 ---
 location: self-esteem
 head:
-  title: Self-Esteem
+  title: 'Anxiety, Depression & Self Esteem'
   subtitle_content: null
   img_path: null
 style:
@@ -23,10 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
-
-
 
