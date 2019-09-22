@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566195978360_url_path_aaron-burden-Bpe_qXKhI0w-unsplash.jpg
+        /upload/image/jpeg/1569182627688_url_path_art-background-collection-1037998.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -20,20 +20,8 @@ style:
       url_path: null
       type: null
       posterurl_path: >-
-        /upload/image/jpeg/1566195883231_posterurl_path_aaron-burden-Bpe_qXKhI0w-unsplash.jpg
+        /upload/image/jpeg/1569182670601_posterurl_path_art-background-collection-1037998.jpg
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 
