@@ -10,8 +10,7 @@ style:
   font_color: null
   media:
     img:
-      url_path: >-
-        /upload/image/jpeg/1566193084859_url_path_samuel-scrimshaw-ebbFZvavGy4-unsplash.jpg
+      url_path: /upload/image/jpeg/1569185013178_url_path_Decorcacti.jpg
       pattern: false
       parallax: false
       overlay: light
