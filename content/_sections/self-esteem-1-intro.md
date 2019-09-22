@@ -10,8 +10,7 @@ style:
   font_color: null
   media:
     img:
-      url_path: >-
-        /upload/image/jpeg/1566177757661_url_path_andrew-ridley-jR4Zf-riEjI-unsplash.jpg
+      url_path: /upload/image/jpeg/1569185195142_url_path_path.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,8 +22,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
 
