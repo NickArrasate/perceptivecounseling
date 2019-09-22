@@ -1,7 +1,7 @@
 ---
 location: adolescence
 head:
-  title: Adolescence (16-18)
+  title: Teens (16-18)
   subtitle_content: null
   img_path: null
 style:
@@ -23,8 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
 
