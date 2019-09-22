@@ -10,7 +10,7 @@ style:
   font_color: null
   media:
     img:
-      url_path: /upload/image/jpeg/1569183222476_url_path_smallsucculants.jpg
+      url_path: /upload/image/jpeg/1569184708827_url_path_potofflowers.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -22,4 +22,6 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
