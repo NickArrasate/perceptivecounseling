@@ -627,11 +627,11 @@ section.grey{
 }
 @media screen and (max-width: 992px){
   .navbar-collapse{
-    background-color: rgba(254,254,254, 0.75);
+    background-color: rgba(254,254,254, 0.85);
     position: absolute;
     top: 106px;
     right: 0px;
-    width: 360px;
+    width: 320px;
     z-index: 100;
     ul{
       display: flex;

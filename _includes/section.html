@@ -14,7 +14,7 @@
           <div class="text-wrapper">
             <h1 {% if section.head.color == 'white' %}class="title text-white text-center"{% else %} class="title text-center" {% endif %}>{{ section.head.title }}</h1>
           {% else %}
-            <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+            <h2 class="title text-center">{{ section.head.title }}</h2>
           {% endif %}
           {% if forloop.first == true %}
             <h3 class="subtitle">{{ section.head.subtitle_content }}</h3>
@@ -45,7 +45,7 @@
           <div class="text-wrapper {% if section.head.img_path %}col-12 col-md-5 col-lg-4{% endif %}">
             <h1 {% if section.head.color == 'white' %}class="title text-white"{% else %} class="title text-center" {% endif %}>{{ section.head.title }}</h1>
           {% else %}
-            <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+            <h2 class="title text-center">{{ section.head.title }}</h2>
           {% endif %}
           </div>
         {% endif %}
@@ -59,7 +59,7 @@
           </div>
         </div>
         {% else %}
-        <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+        <h2 class="title text-center">{{ section.head.title }}</h2>
         {% endif %}
         {% if forloop.first == true %}
         <div class="row d-flex justify-content-center" >
@@ -74,7 +74,7 @@
         {% if forloop.first == true %}
         <h1 class="title text-center">{{ section.head.title }}</h1>
         {% else %}
-        <h2 class="title text-center"><span class="underlined">{{ section.head.title }}</span></h2>
+        <h2 class="title text-center">{{ section.head.title }}</h2>
         {% endif %}
       {% endif %}
       {% endif %}

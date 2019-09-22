@@ -4,7 +4,7 @@
 
 layout: home
 published: true
-permalink: /self-esteem/
+permalink: /anxiety/
 seo:
   title: "Perceptive Counseling"
   description: "Sensitive, professional counseling and thereapy serving the Portland area."
