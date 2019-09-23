@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569208886085_url_path_adventure-arid-daylight-847402crop.jpg
+        /upload/image/jpeg/1569209146064_url_path_bloom-blossom-flora-2567011-1.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,6 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
 
