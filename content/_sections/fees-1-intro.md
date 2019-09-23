@@ -10,7 +10,8 @@ style:
   font_color: null
   media:
     img:
-      url_path: /upload/image/jpeg/1569184708827_url_path_potofflowers.jpg
+      url_path: >-
+        /upload/image/jpeg/1569217000110_url_path_abstract-bright-close-up-2563854-crop.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -22,6 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
 
