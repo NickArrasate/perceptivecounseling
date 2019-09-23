@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569209146064_url_path_bloom-blossom-flora-2567011-1.jpg
+        /upload/image/jpeg/1569210369287_url_path_astronomy-desktop-wallpaper-evening-1624438-crop.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,4 +23,6 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
