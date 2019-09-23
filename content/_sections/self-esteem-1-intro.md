@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569210369287_url_path_astronomy-desktop-wallpaper-evening-1624438-crop.jpg
+        /upload/image/jpeg/1569215390562_url_path_daylight-environment-forest-459225-crop.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,6 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
 
