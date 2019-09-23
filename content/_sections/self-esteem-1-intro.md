@@ -10,7 +10,8 @@ style:
   font_color: null
   media:
     img:
-      url_path: /upload/image/jpeg/1569185195142_url_path_path.jpg
+      url_path: >-
+        /upload/image/jpeg/1569208886085_url_path_adventure-arid-daylight-847402crop.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -22,4 +23,6 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
