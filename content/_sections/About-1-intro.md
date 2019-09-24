@@ -1,7 +1,7 @@
 ---
 location: about
 head:
-  title: 'My Work, Training and Experience'
+  title: About my Work and Experience
   subtitle_content: null
   img_path: null
 style:
@@ -23,4 +23,6 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
