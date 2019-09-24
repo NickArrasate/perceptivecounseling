@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569182627688_url_path_art-background-collection-1037998.jpg
+        /upload/image/jpeg/1569287984063_url_path_andrew-ridley-jR4Zf-riEjI-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
