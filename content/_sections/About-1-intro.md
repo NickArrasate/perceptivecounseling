@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569287143817_url_path_color-green-leaves-houseplant-2929949-crop.jpg
+        /upload/image/jpeg/1570212992871_url_path_branch-bright-desktop-backgrounds-1353938-crop.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,6 +23,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 
