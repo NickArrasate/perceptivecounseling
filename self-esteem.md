@@ -6,7 +6,7 @@ layout: home
 published: true
 permalink: /anxiety/
 seo:
-  title: "Perceptive Counseling - Self-Esteem"
+  title: "Self-Esteem"
   description: "Sensitive, professional counseling and therapy serving the Portland area."
   canonical: null
   noindex: false
