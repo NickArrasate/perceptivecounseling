@@ -6,7 +6,7 @@ layout: home
 published: true
 permalink: /
 seo:
-  title: ""
+  title: "Home"
   description: "Sensitive, professional counseling and therapy serving the Portland area."
   canonical: null
   noindex: false
