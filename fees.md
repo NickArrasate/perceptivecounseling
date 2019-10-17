@@ -11,8 +11,8 @@ seo:
   canonical: null
   noindex: false
 social:
-  title: "Perceptive Counseling - Fees"
-  description: "Sensitive, professional counseling and therapy serving the Portland area."
+  title: "Specializing in Trauma, EMDR and Life Transitions"
+  description: "Sensitive, professional counseling and therapy serving the Portland, OR area."
   img_path: '/assets/images/71.jpg'
   twitter:
     author: null
