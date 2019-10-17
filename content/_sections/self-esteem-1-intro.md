@@ -1,7 +1,7 @@
 ---
 location: self-esteem
 head:
-  title: Self-Esteem
+  title: 'Anxiety, Depression,  & Self-Esteem'
   subtitle_content: null
   img_path: null
 style:
@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566177757661_url_path_andrew-ridley-jR4Zf-riEjI-unsplash.jpg
+        /upload/image/jpeg/1569215390562_url_path_daylight-environment-forest-459225-crop.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,10 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
-
-
 

@@ -1,7 +1,7 @@
 ---
-location: emdr
+location: about
 head:
-  title: Trauma & EMDR
+  title: About my Work and Experience
   subtitle_content: null
   img_path: null
 style:
@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569211991018_url_path_1566176932848_url_path_shifaaz-shamoon-sLAk1guBG90-unsplashemdrbeach.jpg
+        /upload/image/jpeg/1570212992871_url_path_branch-bright-desktop-backgrounds-1353938-crop.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,4 +23,10 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
+
+
+
+
 

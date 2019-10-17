@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1566234899745_url_path_ishan-seefromthesky-FshkDiD1OWs-unsplash.jpg
+        /upload/image/jpeg/1569217509861_url_path_flower-pot-flowerpot-flowers-6803.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -23,8 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
 
