@@ -6,7 +6,7 @@ layout: home
 published: true
 permalink: /
 seo:
-  title: "Perceptive Counseling"
+  title: ""
   description: "Sensitive, professional counseling and therapy serving the Portland area."
   canonical: null
   noindex: false
