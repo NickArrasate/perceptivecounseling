@@ -6,7 +6,7 @@ layout: home
 published: true
 permalink: /
 seo:
-  title: "Specializing in Trauma, EMDR and Life Transitions"
+  title: "Perceptive Counseling"
   description: "Sensitive, professional counseling and therapy serving the Portland area."
   canonical: null
   noindex: false
