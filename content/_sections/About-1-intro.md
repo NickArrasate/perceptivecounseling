@@ -10,7 +10,8 @@ style:
   font_color: null
   media:
     img:
-      url_path: /upload/image/jpeg/1571357630453_url_path_peachy.jpg
+      url_path: >-
+        /upload/image/jpeg/1571357760298_url_path_bady-qb-uZoR8U2hyiw-unsplash-copy.jpg
       pattern: false
       parallax: false
       overlay: light
@@ -22,6 +23,8 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
+
+
 
 
 
