@@ -36,7 +36,7 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">The clients I work with have been striving for autonomy and happiness while they hold this heavy sentiment that they are not worth it or are undeserving.</span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">I have helped people explore the root of that sentiment while they find compassion for themselves and what they have had to go through.. I have seen the impact that counseling can have on a person's sense of self and movement toward what they want and I am honored to be part of the collaborative process. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="background-color: transparent; font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">I have helped people explore the root of that sentiment while they find compassion for themselves and what they have had to go through. I have seen the impact that counseling can have on a person's sense of self and movement toward what they want and I am honored to be part of the collaborative process. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
