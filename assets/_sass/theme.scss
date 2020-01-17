@@ -42,12 +42,18 @@
   .header-wrapper{
     .title{
       text-align: center;
+      @media screen and (max-width: 768px){
+        font-size: 1.6em;
+      }
     }
     .subtitle{
       text-align: center;
       font-size: 1.6em;
       max-width: 550px;
       margin: 0 auto;
+      @media screen and (max-width: 768px){
+        font-size: 1em;
+      }
     }
   }
 }
