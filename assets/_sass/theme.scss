@@ -39,14 +39,16 @@
 .section-header{
   position: relative;
   z-index: 10;
-  .title{
-    text-align: center;
-  }
-  .subtitle{
-    text-align: center;
-    font-size: 1.6em;
-    max-width: 550px;
-    margin: 0 auto;
+  .header-wrapper{
+    .title{
+      text-align: center;
+    }
+    .subtitle{
+      text-align: center;
+      font-size: 1.6em;
+      max-width: 550px;
+      margin: 0 auto;
+    }
   }
 }
 /***** theme variables below this line ****/
