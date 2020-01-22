@@ -28,6 +28,7 @@ cta:
   subtext: null
 
 ---
+
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;Thank you for being here, I look forward to connecting with you.</p>
@@ -38,3 +39,4 @@ cta:
 <p>&nbsp;</p>
 </div>
 </div>
+
