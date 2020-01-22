@@ -27,7 +27,6 @@ cta:
   btnType: null
   btnLink: null
   subtext: null
-
 ---
 <p class="text-center">This is a secure, HIPAA compliant form.</p>
 <p>{% include widgets/contact-form.html %}</p>
