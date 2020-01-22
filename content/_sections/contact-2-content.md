@@ -30,7 +30,7 @@ cta:
 ---
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">I would love to connect with you. Once you submit your interest message in the box below, we can find a good time to chat for a 15-20 minute free consultation so we can sense if we are a good fit for counseling.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;Thank you for being here, I look forward to connecting with you.</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;">If you prefer not to speak on the phone, I can offer a 20-minute HIPAA-secure chat option in the place of the phone consultation.</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;"><em><span style="font-size: 12pt;"><strong>Note: My current openings for 50 minute sessions are on Mondays and Fridays. </strong></span></em></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;"><em><span style="font-size: 12pt;"><strong>I am available for phone consultations other days of the week. </strong></span></em></p>
