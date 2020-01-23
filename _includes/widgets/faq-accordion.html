@@ -1,5 +1,5 @@
 <!--Accordion wrapper-->
-<div class="accordion md-accordion" id="accordionEx1" role="tablist" aria-multiselectable="true">
+<div class="accordion md-accordion" id="accordionEx1" role="tablist" aria-multiselectable="true" style="max-width: 800px; margin: 0 auto;">
     {% assign sorted = site.faq | sort: "category_order" %}
     {% assign categories = sorted | group_by: 'category' %}
     {% for category in categories %}
