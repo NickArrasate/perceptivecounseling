@@ -1,12 +1,7 @@
 ---
-title: How much is a usual 50-Minute session?
+title: Do you offer lower fee slots if needed?
 category: Logistics
 category_order: 1
 
 ---
-
-
-<p>&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">The cost for a 50-minute session is $85.</span></p>
-
-
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-0fc82725-7fff-9f27-f90b-a0405748aeee"><span style="font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">I do have limited lower fee slots, you are always welcome to reach out to see if there is one available. </span></span></p>
