@@ -23,7 +23,7 @@ google_api_key:  # Your Google API key for Maps
 bowtietheme:
   # Contact info, leave blank to ignore
   contact:
-    company: Perceptive Counseling, LLC
+    company: Perceptive Counseling
     address: 325 NW 21st Ave., Ste 102
     city: Portland
     state: OR
@@ -32,6 +32,7 @@ bowtietheme:
     phone: (971) 220 5481
     latlng:  # (e.g. '39.733536,-104.992611')
     twitter:  # (e.g. 'bowtie_co')
+
 collections_dir: 'content'
 collections:
   sections:

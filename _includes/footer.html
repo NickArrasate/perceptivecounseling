@@ -1,5 +1,17 @@
-<footer id="footer" class="section">
-  <div class="container">
+<footer id="footer" class="section row">
+  <div class="row container d-flex align-items-center">
+  <div class="col-md-3 d-flex flex-column align-items-start footer-info">
+    <h5 style="color: white"><strong>{{ site.bowtietheme.contact.company }}</strong></h5>
+    <p>{{ site.bowtietheme.contact.address }}</p>
+    <p>{{ site.bowtietheme.contact.city }}, {{ site.bowtietheme.contact.state }}, {{ site.bowtietheme.contact.zip }}</p>
+    <p>{{ site.bowtietheme.contact.phone }}</p>
+  </div>
+  <div class=" col-md-9 ">
     {% include subfooter.html %}
   </div>
+  <div class="col-12 d-flex flex-column align-items-center" style="margin: 2em 0;">
+    <small>© COPYRIGHT {{ site.time | date: '%Y' }} Perceptive Counseling, LLC. </small>
+    <span class="margin-top:20px;"><a href="/privacy/">Privacy</a></span>
+  </div>
+</div>
 </footer>
