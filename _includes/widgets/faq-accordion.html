@@ -20,7 +20,7 @@
       <!-- Card body -->
       <div id="collapse{{ index }}{{ forloop.index }}" class="collapse" role="tabpanel" aria-labelledby="headingTwo{{ index }}{{ forloop.index }}">
         <div class="card-body">
-            {{ item.content | markdownify }}
+            {{ item.content | markdownify | strip }}
         </div>
       </div>
   </div>
