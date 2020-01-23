@@ -1,12 +1,10 @@
 ---
-title: Is it natural to be nervous to set up a phone consultation?
+title: >-
+  What do I do between the phone consultation and our first appointment if we
+  have one scheduled?
 category: Consultation
 category_order: 2
 
 ---
-
-
 <p>&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Totally! a sign that you are human. It is natural to be nervous when talking with someone you haven&rsquo;t talked to before especially when you can&rsquo;t see their expressions. I will try and make the experience as seamless and comfortable as possible.</span></p>
-
-
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-58fd037c-7fff-c267-dae0-d94a17a86525"><span style="font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">After our free phone consultation and determining an appointment time, I will send you an email invitation welcoming you to sign into a secure client portal where you can fill out all necessary paperwork anytime before our first session.</span></span></p>
