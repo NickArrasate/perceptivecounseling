@@ -3,7 +3,7 @@
     {% assign sorted = site.faq | sort: "category_order" %}
     {% assign categories = sorted | group_by: 'category' %}
     {% for category in categories %}
-    <h4 style="margin-top: .5rem">{{ category.name | capitalize }}</h4>
+    <h4 style="margin-top: 2em; border-bottom: 1px solid lightgrey">{{ category.name | capitalize }}</h4>
     {% assign index = forloop.index %}
     {% for item in category.items %}
     <!-- Accordion card -->
