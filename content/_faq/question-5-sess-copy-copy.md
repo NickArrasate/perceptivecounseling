@@ -1,9 +1,10 @@
 ---
-title: Is it natural to be nervous to set up a phone consultation?
-category: Consultation
-category_order: 2
+title: What does the first session look like?
+category: I just became a Client
+category_order: '3'
 
 ---
+
 <ul style="margin-top: 0; margin-bottom: 0;">
 <li dir="ltr" style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;">
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You arrive to address 325 NW 21st ave. and use the key code (Sent in the initial welcome email).</span></p>
@@ -21,3 +22,4 @@ category_order: 2
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;" role="presentation"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">From there we get to start wherever you like as we continue to have more of a sense of each other in the room together. </span></p>
 </li>
 </ul>
+
