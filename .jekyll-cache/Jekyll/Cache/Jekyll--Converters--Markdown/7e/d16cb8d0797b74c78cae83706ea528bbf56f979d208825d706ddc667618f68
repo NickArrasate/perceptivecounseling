@@ -1,4 +1,4 @@
-I"ü
+I"N
 <section class="image-right text-white">
   
 
@@ -77,8 +77,8 @@
 <div class="col-md-6 text-center">
   <img src="/upload/image/jpeg/1579222179685_img_path_smilingpic.jpg" alt="Lucy Sherman" />
   <div style="max-width: 400px; margin: .5em auto">
-  <h4 style="font-size: 90%" class="home-caption">Lucy Sherman, MS, NCC, CRC, LPC Intern</h4>
-  <h3 style="font-size: 80%">EMDR Therapist specializing in adjustment to diability and chronic illness</h3>
+  <h4 style="font-size: 97%" class="home-caption">Lucy Sherman, MS, NCC, CRC, LPC Intern</h4>
+  <p style="font-size: 100%">EMDR therapist specializing in adjustment to diability and chronic illness</p>
 </div>
 </div>
 <div class="col-md-6">
@@ -114,11 +114,12 @@
 </ul>
 <h3>Approaches I draw from:</h3>
 <ul class="home-list" style="columns: 1; padding-left: 16px;">
-<li>Eye Movement Desensitization and Reprocessing (EMDR)</li>
+<li><a href="/emdr/"><p>Eye Movement Desensitization and Reprocessing (EMDR)</p></a></li>
 <li>Compassion-Focused Therapy</li>
 <li>Attachment-Focused Therapy</li>
 <li>Person-Centered Therapy</li>
 </ul>
+<a href="/faq/"><p>Additional Information &gt;</p></a>
 </div>
 </div>
 </div>
