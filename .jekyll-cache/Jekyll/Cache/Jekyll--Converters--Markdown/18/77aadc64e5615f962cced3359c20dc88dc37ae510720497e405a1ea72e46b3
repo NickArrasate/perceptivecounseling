@@ -1,0 +1,399 @@
+I"�F<!--Accordion wrapper-->
+<div class="accordion md-accordion" id="accordionEx1" role="tablist" aria-multiselectable="true" style="max-width: 800px; margin: 0 auto;">
+    
+    
+    
+    <h4 style="margin-top: 2em; border-bottom: 1px solid lightgrey"></h4>
+    
+    
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo11">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx11" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+          <h5 class="mb-0">
+             <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse11" class="collapse" role="tabpanel" aria-labelledby="headingTwo11">
+        <div class="card-body">
+            <p>Nope, you don't need to bring anything since you filled out necessary paperwork on the portal.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo12">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx12" href="#collapse12" aria-expanded="false" aria-controls="collapse12">
+          <h5 class="mb-0">
+             <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse12" class="collapse" role="tabpanel" aria-labelledby="headingTwo12">
+        <div class="card-body">
+            <p>We can decide the best option that works for you during our first session</p>
+<p>There are several options that are in person:</p>
+<p>Square card reader, cash and check that I ask for at the beginning of the session.</p>
+<p>You can also sign into Simple Practice and charge your card by the beginning of our session.&lt;/span&gt;</p>
+<p>You are also welcome to ask me to set up an automatic payment on the secure Simple Practice client portal which charges the evening after scheduled sessions and can be paused at any time.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo13">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx13" href="#collapse13" aria-expanded="false" aria-controls="collapse13">
+          <h5 class="mb-0">
+             <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse13" class="collapse" role="tabpanel" aria-labelledby="headingTwo13">
+        <div class="card-body">
+            <ul>
+<li>You arrive to address 325 NW 21st ave. and use the key code (Sent in the initial welcome email).</li>
+<li>The staircase will be in front of you, my office is on the left (Ste. 102) and the bathrooms are on the right of the stairs. There is a waiting area to the left of the stairs and you are welcome to wait there until I come out and greet you.</li>
+<li>I will welcome you into the office and offer you tea and a chance to get settled :)</li>
+<li>The beginning of our session will be re-iterating some of the key points from the paperwork, I can share a bit more about the way I work and my ethical responsibilities and you are always welcome to ask any questions you have.</li>
+<li>From there we get to start wherever you like as we continue to have more of a sense of each other in the room together.</li>
+</ul>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo14">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx14" href="#collapse14" aria-expanded="false" aria-controls="collapse14">
+          <h5 class="mb-0">
+             <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse14" class="collapse" role="tabpanel" aria-labelledby="headingTwo14">
+        <div class="card-body">
+            <p>Pretty standard, if you cancel before 24 hours then there is no fee. If you cancel under 24 hours there is a fee.</p>
+<p>Exception: If the cancelation is due to inclement weather that is out of your control there is no fee.</p>
+<p>If I have availability in my schedule I will often try to work with you to reschedule within the same week you missed.</p>
+        </div>
+      </div>
+  </div>
+  
+  
+    <h4 style="margin-top: 2em; border-bottom: 1px solid lightgrey">Logistics</h4>
+    
+    
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo21">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx21" href="#collapse21" aria-expanded="false" aria-controls="collapse21">
+          <h5 class="mb-0">
+            Is there free parking for clients? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse21" class="collapse" role="tabpanel" aria-labelledby="headingTwo21">
+        <div class="card-body">
+            <p>Yes! You may take any space in the parking lot immediately outside of the office building.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo22">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx22" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
+          <h5 class="mb-0">
+            Do you take insurance? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse22" class="collapse" role="tabpanel" aria-labelledby="headingTwo22">
+        <div class="card-body">
+            <p>I am private pay only at this time and do not take insurance.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo23">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx23" href="#collapse23" aria-expanded="false" aria-controls="collapse23">
+          <h5 class="mb-0">
+            How much is a usual 50-Minute session? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse23" class="collapse" role="tabpanel" aria-labelledby="headingTwo23">
+        <div class="card-body">
+            <p>The cost for a 50-minute session is $85.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo24">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx24" href="#collapse24" aria-expanded="false" aria-controls="collapse24">
+          <h5 class="mb-0">
+            Do you offer lower fee slots if needed? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse24" class="collapse" role="tabpanel" aria-labelledby="headingTwo24">
+        <div class="card-body">
+            <p>I do have limited lower fee slots, you are always welcome to reach out to see if there is one available.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo25">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx25" href="#collapse25" aria-expanded="false" aria-controls="collapse25">
+          <h5 class="mb-0">
+            What is your availability? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse25" class="collapse" role="tabpanel" aria-labelledby="headingTwo25">
+        <div class="card-body">
+            <p>I currently have more availability on Fridays and some availability on Mondays. You are always welcome to reach out and ask as my availability may change.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo26">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx26" href="#collapse26" aria-expanded="false" aria-controls="collapse26">
+          <h5 class="mb-0">
+            Is your office ADA accessible? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse26" class="collapse" role="tabpanel" aria-labelledby="headingTwo26">
+        <div class="card-body">
+            <p>Unfortunately, there are several steps going up to the office building so right now I am not in an ADA accessible space, I am hoping that can change soon.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo27">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx27" href="#collapse27" aria-expanded="false" aria-controls="collapse27">
+          <h5 class="mb-0">
+            If I have questions, can I email you? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse27" class="collapse" role="tabpanel" aria-labelledby="headingTwo27">
+        <div class="card-body">
+            <p>You are always welcome to email me with any questions you may have.</p>
+        </div>
+      </div>
+  </div>
+  
+  
+    <h4 style="margin-top: 2em; border-bottom: 1px solid lightgrey">Consultation</h4>
+    
+    
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo31">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx31" href="#collapse31" aria-expanded="false" aria-controls="collapse31">
+          <h5 class="mb-0">
+            What do I do between the phone consultation and our first appointment if we have one scheduled? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse31" class="collapse" role="tabpanel" aria-labelledby="headingTwo31">
+        <div class="card-body">
+            <p>After our free phone consultation and determining an appointment time, I will send you an email invitation welcoming you to sign into a secure client portal where you can fill out all necessary paperwork anytime before our first session.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo32">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx32" href="#collapse32" aria-expanded="false" aria-controls="collapse32">
+          <h5 class="mb-0">
+            What should I expect if I sign up for a free consultation? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse32" class="collapse" role="tabpanel" aria-labelledby="headingTwo32">
+        <div class="card-body">
+            <p>This is a chance for us to get a little sense of each other before we have an in-person appointment. You get to ask anything your heart desires about the counseling process, the way I work, etc. And if you don’t have questions, that is a-ok, too.</p>
+
+<p>We also get to cover some logistics and I get to ask a few questions around safety and making sure that individual counseling one time per week seems like an appropriate fit.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo33">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx33" href="#collapse33" aria-expanded="false" aria-controls="collapse33">
+          <h5 class="mb-0">
+            If I don’t like talking on the phone is there another way? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse33" class="collapse" role="tabpanel" aria-labelledby="headingTwo33">
+        <div class="card-body">
+            <p>Yes! I offer a 20-minute google hangouts chat option under my Hipaa secure G-suite. You are welcome to ask for that in the place of a phone call.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo34">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx34" href="#collapse34" aria-expanded="false" aria-controls="collapse34">
+          <h5 class="mb-0">
+            Is it natural to be nervous to set up a phone consultation? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse34" class="collapse" role="tabpanel" aria-labelledby="headingTwo34">
+        <div class="card-body">
+            <p>Totally! a sign that you are human. It is natural to be nervous when talking with someone you haven’t talked to before especially when you can’t see their expressions. I will try and make the experience as seamless and comfortable as possible.</p>
+        </div>
+      </div>
+  </div>
+  
+  
+    <h4 style="margin-top: 2em; border-bottom: 1px solid lightgrey">Counseling process</h4>
+    
+    
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo41">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx41" href="#collapse41" aria-expanded="false" aria-controls="collapse41">
+          <h5 class="mb-0">
+            What are counseling sessions like? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse41" class="collapse" role="tabpanel" aria-labelledby="headingTwo41">
+        <div class="card-body">
+            <p>Also unique to you! I want to meet you where you are at and will check in to see how the process is going for you.</p>
+
+<p><strong>Approaches I draw from:</strong></p>
+<p>Eye Movement Desensitization and Reprocessing (EMDR)
+Compassion-Focused Therapy
+Attachment-Focused Therapy
+Person-Centered Therapy</p>
+<p><strong>Some of the tools I use to deepen self-compassion and understanding:</strong>
+Mindfulness exercises and Grounding exercises
+Exploration through Art
+Exploration through writing
+Exploration through inner dialogue
+Exploring feelings toward past self
+Exploration of attachment patterns in the room
+Exploration of what body is communicating
+EMDR resourcing
+Exploring how the brain and body are impacted by trauma
+</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo42">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx42" href="#collapse42" aria-expanded="false" aria-controls="collapse42">
+          <h5 class="mb-0">
+            How long can I be in counseling for? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse42" class="collapse" role="tabpanel" aria-labelledby="headingTwo42">
+        <div class="card-body">
+            <p>This is unique to you! We can work together as long as it is therapeutic and feels helpful and supportive. We are not held to any timeframe and we can go at the pace that feels right for you while we build a therapeutic relationship.</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo43">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx43" href="#collapse43" aria-expanded="false" aria-controls="collapse43">
+          <h5 class="mb-0">
+            What do you do after our session? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse43" class="collapse" role="tabpanel" aria-labelledby="headingTwo43">
+        <div class="card-body">
+            <p>&nbsp;</p>
+<p>I use the Simple Practice Portal to write a case note with general information about our session such as appointment time, themes brought up and therapeutic plan moving forward. &lt;/span&gt;</p>
+        </div>
+      </div>
+  </div>
+  
+    <!-- Accordion card -->
+    <div class="card">
+      <!-- Card header -->
+      <div class="card-header" role="tab" id="headingTwo44">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx44" href="#collapse44" aria-expanded="false" aria-controls="collapse44">
+          <h5 class="mb-0">
+            Does anyone have access to these case notes? <i class="fas fa-angle-down rotate-icon"></i>
+          </h5>
+        </a>
+      </div>
+      <!-- Card body -->
+      <div id="collapse44" class="collapse" role="tabpanel" aria-labelledby="headingTwo44">
+        <div class="card-body">
+            <p>As I am working toward licensure I do have a supervisor who has access to these case notes. She does have the ability to look over them from time to time so I can ensure I am providing the most appropriate and supportive care.</p>
+        </div>
+      </div>
+  </div>
+  
+  
+  </div>
+<p><!-- Accordion wrapper --></p>
+
+:ET

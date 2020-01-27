@@ -1,6 +1,6 @@
 ---
 title: What is the cancellation policy?
-category: I just became a Client
+category: 'I Just Became a Client'
 category_order: '3'
 
 ---

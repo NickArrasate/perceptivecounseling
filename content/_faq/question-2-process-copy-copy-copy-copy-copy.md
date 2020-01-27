@@ -1,6 +1,6 @@
 ---
 title: How long can I be in counseling for?
-category: Counseling Process
+category: 'Counseling Process'
 category_order: '4'
 
 ---
