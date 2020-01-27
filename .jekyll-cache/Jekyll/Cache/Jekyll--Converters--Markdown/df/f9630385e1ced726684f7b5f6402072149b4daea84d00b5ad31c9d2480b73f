@@ -1,4 +1,4 @@
-I"å
+I"û
 <section class="image-right text-white">
   
 
@@ -74,21 +74,27 @@
 
     <div class="content section-content">
       <div class="d-flex align-items-start justify-content-around row">
-<div class="col-md-6 text-center"><img src="/upload/image/jpeg/1579222179685_img_path_smilingpic.jpg" alt="Lucy Sherman" /></div>
+<div class="col-md-6 text-center">
+  <img src="/upload/image/jpeg/1579222179685_img_path_smilingpic.jpg" alt="Lucy Sherman" />
+  <div style="max-width: 400px; margin: .5em auto">
+  <h4 style="font-size: 97%" class="home-caption">Lucy Sherman, MS, NCC, CRC, LPC Intern</h4>
+  <p style="font-size: 100%">EMDR therapist specializing in adjustment to diability and chronic illness</p>
+</div>
+</div>
 <div class="col-md-6">
 <h2>Welcome&nbsp;</h2>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You may have not always felt heard and validated by the people in your life and it has become harder to share your whole self with others now. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You may have been given messages that your emotional pain and physical pain are not valid and trusting your intuition and believing in yourself has gotten more difficult. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-<h2>Our Work Together</h2>
+<h4>Our Work Together</h4>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">I want to honor what your past self has gone through while creating a place of acceptance, validation and encouragement for your present self to thrive.</span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">I am passionate about helping you connect with the empowered you that feels just out of reach so you can move toward the life that you want.</span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-12">
-<h4>I provide support in these areas:</h4>
+<h3>I provide support in these areas:</h3>
 <ul class="home-list" style="columns: 2; padding-left: 16px;">
 <li>Trauma</li>
 <li>Chronic Pain</li>
@@ -105,6 +111,13 @@
 <li>Stress</li>
 <li>Women's issues</li>
 <li>Teen Issues</li>
+</ul>
+<h3>Approaches I draw from:</h3>
+<ul class="home-list" style="columns: 1; padding-left: 16px;">
+<li>Eye Movement Desensitization and Reprocessing (EMDR)</li>
+<li>Compassion-Focused Therapy</li>
+<li>Attachment-Focused Therapy</li>
+<li>Person-Centered Therapy</li>
 </ul>
 </div>
 </div>

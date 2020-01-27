@@ -1,4 +1,4 @@
-I"ò
+I"ü
 <section class="image-right text-white">
   
 
@@ -74,7 +74,13 @@
 
     <div class="content section-content">
       <div class="d-flex align-items-start justify-content-around row">
-<div class="col-md-6 text-center"><img src="/upload/image/jpeg/1579222179685_img_path_smilingpic.jpg" alt="Lucy Sherman" /></div>
+<div class="col-md-6 text-center">
+  <img src="/upload/image/jpeg/1579222179685_img_path_smilingpic.jpg" alt="Lucy Sherman" />
+  <div style="max-width: 400px; margin-top: 1.5em">
+  <h4 style="font-size: 80%" class="home-caption">Lucy Sherman, MS, NCC, CRC, LPC Intern</h4>
+  <h3 style="font-size: 80%">EMDR Therapist specializing in adjustment to diability and chronic illness</h3>
+</div>
+</div>
 <div class="col-md-6">
 <h2>Welcome&nbsp;</h2>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You may have not always felt heard and validated by the people in your life and it has become harder to share your whole self with others now. </span></p>
@@ -108,10 +114,10 @@
 </ul>
 <h3>Approaches I draw from:</h3>
 <ul class="home-list" style="columns: 1; padding-left: 16px;">
+<li>Eye Movement Desensitization and Reprocessing (EMDR)</li>
 <li>Compassion-Focused Therapy</li>
 <li>Attachment-Focused Therapy</li>
 <li>Person-Centered Therapy</li>
-<li>Eye Movement Desensitization and Reprocessing (EMDR)</li>
 </ul>
 </div>
 </div>
