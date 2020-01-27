@@ -1,35 +1,80 @@
----
-location: home
-head:
-  title: null
-  subtitle_content: null
-  img_path: /upload/image/jpeg/1579222179685_img_path_smilingpic.jpg
-style:
-  id: ''
-  class: feature-blocks alt
-  font_color: null
-  media:
-    img:
-      url_path: null
-      pattern: false
-      parallax: false
-      overlay: null
-      blur: false
-    video:
-      url_path: null
-      type: null
-      posterurl_path: null
-  tint_color: 'rgba(0,0,0,0.0)'
-cta:
-  headline: null
-  btnText: null
-  btnType: null
-  btnLink: null
-  subtext: null
+I"¸
+<section class="image-right text-white">
+  
 
----
-<div class="d-flex align-items-start justify-content-around row">
-<div class="col-md-6 text-center"><img src="{{ page.head.img_path }}" alt="Lucy Sherman" /></div>
+
+
+
+  <div class="media-wrap">
+    <div style="background-image:url(' /upload/image/jpeg/1569287810675_url_path_nicolette-meade-RL3F99l0XYE-unsplash-goodoltrue.jpg'); background-size: cover; background-position: center;" class="media fullscreen-bg cover blur bgoverlayLight"></div>
+  
+    <div class="media-tint" style="background: rgba(0,0,0,0.0);"></div>
+  
+  </div>
+
+
+
+  <a name=""></a>
+  <div class="container">
+    
+    <div class="section-header">
+    
+      
+        
+        <div class="row d-flex justify-content-center">
+          <div class="col-12 col-md-10">
+            <h1 class="title">Trauma Counseling for Adults and Teens</h1>
+          </div>
+        </div>
+        
+        
+        <div class="row d-flex justify-content-center">
+          <div class="col-11 col-md-10 col-lg-9">
+            <h2 class="subtitle test">Helping you gain more compassion for yourself and what you have been through so you can be more empowered and connected.</h2>
+          </div>
+        </div>
+        
+      
+      
+    </div><!-- end section header -->
+    
+
+    <div class="content section-content">
+      
+    </div>
+
+    
+      
+    
+  </div>
+</section>
+
+<section class="feature-blocks alt">
+  
+
+
+
+
+  <div class="media-wrap">
+    <div class="media-tint" style="background:rgba(0,0,0,0.0);"></div>
+  </div>
+
+
+  <a name=""></a>
+  <div class="container">
+    
+    <div class="section-header">
+    
+      <div class="header-wrapper row d-flex justify-content-center align-items-center">
+        
+      </div>
+    
+    </div><!-- end section header -->
+    
+
+    <div class="content section-content">
+      <div class="d-flex align-items-start justify-content-around row">
+<div class="col-md-6 text-center"><img src="/upload/image/jpeg/1579222179685_img_path_smilingpic.jpg" alt="Lucy Sherman" /></div>
 <div class="col-md-6">
 <h2>Welcome&nbsp;</h2>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">You may have not always felt heard and validated by the people in your life and it has become harder to share your whole self with others now. </span></p>
@@ -62,7 +107,7 @@ cta:
 <li>Teen Issues</li>
 </ul>
 <h3>Approaches I draw from:</h3>
-<ul class="home-list" style="columns: 1; padding-left: 16px;">
+<ul>
 <li>Eye Movement Desensitization and Reprocessing (EMDR)</li>
 <li>Compassion-Focused Therapy</li>
 <li>Attachment-Focused Therapy</li>
@@ -72,3 +117,11 @@ cta:
 </div>
 </div>
 </div>
+
+    </div>
+
+    
+  </div>
+</section>
+
+:ET
