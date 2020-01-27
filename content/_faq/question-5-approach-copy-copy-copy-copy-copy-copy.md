@@ -6,10 +6,12 @@ category_order: '4'
 Also unique to you! I want to meet you where you are at and will check in to see how the process is going for you.
 
 <p><strong>Approaches I draw from:</strong></p>
+<ul>
 <li>Eye Movement Desensitization and Reprocessing (EMDR)</li>
 <li>Compassion-Focused Therapy</li>
 <li>Attachment-Focused Therapy</li>
 <li>Person-Centered Therapy</li>
+</ul>
 <p><strong>Some of the tools I use to deepen self-compassion and understanding:</strong></p>
 <ul>
 <li>Mindfulness exercises and Grounding exercises</li>
