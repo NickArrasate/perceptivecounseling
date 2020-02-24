@@ -28,7 +28,6 @@ cta:
   subtext: null
 
 ---
-
 <div class="d-flex align-items-center row">
 <div class="col-12"><!-- <p>My current openings for 50 minute sessions are on Mondays and Fridays.</p>
 <p>I am available for phone consultations other days of the week.</p> -->
@@ -36,4 +35,3 @@ cta:
 </div>
 <div class="col-md-8 offset-md-2">{% include elements/map.html %}</div>
 </div>
-
