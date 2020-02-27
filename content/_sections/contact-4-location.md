@@ -37,5 +37,4 @@ cta:
 <div class="col-md-8 offset-md-2">
 {% include elements/map.html %}
 </div>
-<div class="col-md-8 offset-md-2">{% include elements/map.html %}</div>
 </div>
