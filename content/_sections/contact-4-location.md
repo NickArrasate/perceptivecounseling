@@ -1,13 +1,8 @@
 ---
 location: contact
 head:
-<<<<<<< HEAD
   title: Office Locations
   subtitle_content:
-=======
-  title: Office Location
-  subtitle_content: null
->>>>>>> 9a7b64111e8598897356ec10931a587c1b4919bc
   img_path: null
 style:
   id: ''
