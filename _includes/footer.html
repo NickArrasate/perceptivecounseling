@@ -2,7 +2,9 @@
   <div class="row container d-flex align-items-center">
   <div class="col-md-3 d-flex flex-column align-items-start footer-info">
     <h5 style="color: white"><strong>{{ site.bowtietheme.contact.company }}</strong></h5>
+    {% if site.bowtietheme.contact.address %}
     <p>{{ site.bowtietheme.contact.address }}</p>
+    {% endif %}
     <p>{{ site.bowtietheme.contact.city }}, {{ site.bowtietheme.contact.state }}, {{ site.bowtietheme.contact.zip }}</p>
     <p>{{ site.bowtietheme.contact.phone }}</p>
   </div>

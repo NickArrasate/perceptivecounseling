@@ -24,10 +24,10 @@ bowtietheme:
   # Contact info, leave blank to ignore
   contact:
     company: Perceptive Counseling
-    address: 325 NW 21st Ave., Ste 102
+    address:
     city: Portland
     state: OR
-    zip: 97209
+    zip: 97211
     country: USA
     phone: (971) 200 5481
     latlng:  # (e.g. '39.733536,-104.992611')
