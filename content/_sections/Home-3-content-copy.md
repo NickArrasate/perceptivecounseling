@@ -28,10 +28,6 @@ cta:
   subtext: null
 
 ---
-
-
-
-
 <div class="">
 <p style="font-weight: 400;"><strong>Approaches I draw from:</strong></p>
 <p dir="ltr" style="font-weight: 400;" role="presentation">Eye Movement Desensitization and Reprocessing (EMDR)</p>
@@ -39,8 +35,5 @@ cta:
 <p dir="ltr" style="font-weight: 400;" role="presentation">Attachment-Focused Therapy</p>
 <p dir="ltr" style="font-weight: 400;" role="presentation">Person-Centered Therapy</p>
 <p dir="ltr" style="font-weight: 400;" role="presentation">Internal Family Systems Therapy</p>
+<p dir="ltr" style="font-weight: 400;" role="presentation">Expressive Arts in Counseling</p>
 </div>
-
-
-
-
