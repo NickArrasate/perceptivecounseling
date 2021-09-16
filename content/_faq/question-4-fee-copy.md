@@ -4,4 +4,4 @@ category: Logistics
 category_order: 1
 
 ---
-<p>The cost for a 50-minute session is $95.</p>
+<p>The cost for a 50-minute session is $120.</p>
