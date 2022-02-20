@@ -11,12 +11,13 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1571357760298_url_path_bady-qb-uZoR8U2hyiw-unsplash-copy.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645398416758-christina-deravedisian-SZ-CEbUsB_I-unsplash
+        (1).jpg
       pattern: false
       parallax: true
       overlay: light
       blur: true
-      use_content_card: false
+      use_content_card: true
     video:
       url_path: null
       type: null
