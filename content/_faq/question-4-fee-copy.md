@@ -1,5 +1,5 @@
 ---
-title: How much is a usual 50-Minute session?
+title: How much is a standard 50-Minute session?
 category: Logistics
 category_order: 1
 
