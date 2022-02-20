@@ -1,5 +1,5 @@
 ---
-location: Home
+location: home
 head:
   title: null
   subtitle_content: null
