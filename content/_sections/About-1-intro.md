@@ -12,7 +12,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1571357760298_url_path_bady-qb-uZoR8U2hyiw-unsplash-copy.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645399478577-marek-piwnicki-3Exh4BdB2yA-unsplash.jpg
       pattern: false
       parallax: true
       overlay: light
