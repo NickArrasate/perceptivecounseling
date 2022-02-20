@@ -10,8 +10,7 @@ style:
   font_color: 'rgb(36, 34, 34)'
   media:
     img:
-      url_path: >-
-        /upload/image/jpeg/1569286754728_url_path_branch-bright-desktop-backgrounds-1353938-crop.jpg
+      url_path: '/upload/image/jpeg/1569286754728_url_path_branch-bright-desktop-backgrounds-1353938-crop.jpg'
       pattern: false
       parallax: false
       overlay: null
@@ -20,7 +19,7 @@ style:
       url_path: null
       type: null
       posterurl_path: null
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color:
 cta:
   headline: null
   btnText: null
