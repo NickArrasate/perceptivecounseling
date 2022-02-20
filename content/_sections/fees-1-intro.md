@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569217509861_url_path_flower-pot-flowerpot-flowers-6803.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645393194449-avinash-kumar-Yr146Eua_mM-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
