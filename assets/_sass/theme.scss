@@ -154,9 +154,13 @@ color: $primary-font-color;
   margin-bottom: 1em;
 }
 .section-content.content-card{
-  padding-top: 2em;
-  padding-bottom: 2em;
+  padding: 2em 4em;
   background-color: white;
+  max-width: 620px;
+  margin: 0 auto;
+  border-radius: 4px;
+  -webkit-box-shadow: 6px 8px 9px 5px rgba(0,0,0,0.37); 
+  box-shadow: 6px 8px 9px 5px rgba(0,0,0,0.37);
 }
 section .container.box {
 	background: white;
@@ -721,6 +725,8 @@ header {
   z-index: 110;
   width: 100%;
   background: transparent;
+  position: sticky;
+  top: 0;
 }
 .docs-image{
   margin-top: 1em;

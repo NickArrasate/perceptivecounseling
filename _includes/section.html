@@ -81,7 +81,7 @@
     </div><!-- end section header -->
     {% endif %}
 
-    <div class="content section-content {% if style.media.img.url_path %}content-card{% endif %}">
+    <div class="content section-content {% if style.media.img.url_path and style.media.img.use_content_card %}content-card{% endif %}">
       {{ section.content }}
     </div>
 
