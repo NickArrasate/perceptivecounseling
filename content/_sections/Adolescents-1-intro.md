@@ -1,7 +1,7 @@
 ---
 location: adolescence
 head:
-  title: Teens (14-18)
+  title: Teens (16-18)
   subtitle_content: null
   img_path: null
 style:
@@ -10,7 +10,8 @@ style:
   font_color: null
   media:
     img:
-      url_path: /upload/image/jpeg/1569185013178_url_path_Decorcacti.jpg
+      url_path: >-
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645394261146-geordanna-cordero-2Qg4y32pdCc-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
