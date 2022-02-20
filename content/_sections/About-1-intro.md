@@ -4,7 +4,7 @@ head:
   title: About my Work and Experience
   subtitle_content: null
   img_path: null
-  use_content_card: true
+  use_content_card: false
 style:
   id: null
   class: image-right text-white
