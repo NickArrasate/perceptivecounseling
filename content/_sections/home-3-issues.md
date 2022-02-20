@@ -10,12 +10,13 @@ style:
   font_color: null
   media:
     img:
-      url_path: null
+      url_path: >-
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645400547295-geordanna-cordero-2Qg4y32pdCc-unsplash.jpg
       pattern: false
       parallax: false
       overlay: null
       blur: false
-      use_content_card: false
+      use_content_card: true
     video:
       url_path: null
       type: null
