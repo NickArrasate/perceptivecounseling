@@ -11,8 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645398416758-christina-deravedisian-SZ-CEbUsB_I-unsplash
-        (1).jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645399478577-marek-piwnicki-3Exh4BdB2yA-unsplash.jpg
       pattern: false
       parallax: true
       overlay: light
