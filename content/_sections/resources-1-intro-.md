@@ -17,6 +17,7 @@ style:
       parallax: false
       overlay: light
       blur: true
+      use_content_card: false
     video:
       url_path: null
       type: null
