@@ -10,7 +10,8 @@ style:
   font_color: 'rgb(36, 34, 34)'
   media:
     img:
-      url_path: '/upload/image/jpeg/1569286754728_url_path_branch-bright-desktop-backgrounds-1353938-crop.jpg'
+      url_path: >-
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645399606933-eberhard-grossgasteiger-S-2Ukb_VqpA-unsplash.jpg
       pattern: false
       parallax: false
       overlay: null
@@ -20,7 +21,7 @@ style:
       url_path: null
       type: null
       posterurl_path: null
-  tint_color:
+  tint_color: null
 cta:
   headline: null
   btnText: null
