@@ -13,7 +13,7 @@ style:
       url_path: >-
         /upload/image/jpeg/1571357760298_url_path_bady-qb-uZoR8U2hyiw-unsplash-copy.jpg
       pattern: false
-      parallax: false
+      parallax: true
       overlay: light
       blur: true
     video:
@@ -23,8 +23,4 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 
 ---
-
-
-
-
 
