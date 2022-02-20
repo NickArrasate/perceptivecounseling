@@ -12,7 +12,15 @@
         {% if section.head.subtitle_content %}
           {% if forloop.first == true %}
           <div class="text-wrapper">
-            <h1 {% if section.head.color == 'white' %}class="title text-white text-center"{% else %} class="title text-center" {% endif %}>{{ section.head.title }}</h1>
+            <h1 
+              {% if section.head.color == 'white' %}
+                class="title text-white text-center"
+              {% elsif section.head.use_content_card %}
+                class="title text-center content-card"
+              {% else %}
+                class="title text-center"
+              {% endif %}>{{ section.head.title }}
+            </h1>
           {% else %}
             <h2 class="title text-center">{{ section.head.title }}</h2>
           {% endif %}
@@ -43,7 +51,15 @@
         {% elsif section.head.title %}
           {% if forloop.first == true %}
           <div class="text-wrapper {% if section.head.img_path %}col-12 col-md-5 col-lg-4{% endif %}">
-            <h1 {% if section.head.color == 'white' %}class="title text-white"{% else %} class="title text-center" {% endif %}>{{ section.head.title }}</h1>
+            <h1
+              {% if section.head.color == 'white' %}
+                class="title text-white text-center"
+              {% elsif section.head.use_content_card %}
+                class="title text-center content-card"
+              {% else %}
+                class="title text-center"
+              {% endif %}>{{ section.head.title }}
+            </h1>
           {% else %}
             <h2 class="title text-center">{{ section.head.title }}</h2>
           {% endif %}
@@ -72,7 +88,15 @@
         {% endif %}
       {% elsif section.head.title %}
         {% if forloop.first == true %}
-        <h1 class="title text-center">{{ section.head.title }}</h1>
+            <h2
+              {% if section.head.color == 'white' %}
+                class="title text-white text-center"
+              {% elsif section.head.use_content_card %}
+                class="title text-center content-card"
+              {% else %}
+                class="title text-center"
+              {% endif %}>{{ section.head.title }}
+            </h2>
         {% else %}
         <h2 class="title text-center">{{ section.head.title }}</h2>
         {% endif %}
