@@ -10,12 +10,13 @@ style:
   font_color: null
   media:
     img:
-      url_path: null
+      url_path: >-
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645405651053-steve-johnson--BP4qPfycSM-unsplash.jpg
       pattern: false
-      parallax: false
-      overlay: null
-      blur: false
-      use_content_card: false
+      parallax: true
+      overlay: light
+      blur: true
+      use_content_card: true
     video:
       url_path: null
       type: null
@@ -33,7 +34,7 @@ cta:
 <div class="col-sm-10 col-md-8 col-lg-6">
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">I offer a gentle and warm environment to explore the feelings that are coming up for you around being enough and feeling worthy. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We collaborate together to explore grounding tools for soothing anxiety and overwhelm in the present while also exploring the root of where these beliefs and feelings come from. I bring creativity, humor and care for each client into this work around anxiety and self esteem. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We collaborate together to explore grounding tools for soothing anxiety and overwhelm in the present while also exploring the root of where these beliefs and feelings come from. I bring creativity, humor and care for each client into the room with you. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 </div>
 </div>
