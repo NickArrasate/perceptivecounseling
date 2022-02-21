@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569215390562_url_path_daylight-environment-forest-459225-crop.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645405477339-steve-johnson--BP4qPfycSM-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
