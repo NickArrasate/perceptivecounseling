@@ -3,7 +3,8 @@ location: home
 head:
   title: null
   subtitle_content: null
-  img_path: null
+  img_path: >-
+    https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645402608161-pawel-czerwinski-aMPfitH2tT0-unsplash.jpg
 style:
   id: ''
   class: feature-blocks
