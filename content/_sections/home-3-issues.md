@@ -36,19 +36,17 @@ cta:
 <h3>I provide support in these areas:</h3>
 <ul class="home-list" style="columns: 2; padding-left: 16px;">
 <li>Trauma</li>
+<li>Anxiety</li>
+<li>Being Highly Sensitive (HSP)</li>
 <li>Chronic Pain</li>
 <li>Self Esteem</li>
-<li>Anxiety</li>
-<li>Adjustment to Disability and Chronic Illness</li>
-<li>Life Transitions</li>
-<li>Emotional abuse</li>
+<li>Disability and Chronic Illness</li>
 <li>Complex PTSD</li>
-<li>negative self talk</li>
 <li>Relationship Issues</li>
 <li>Sexual Abuse</li>
 <li>Women's issues</li>
 <li>Teen Issues</li>
-<li>HSP (Highly Sensitive Person)</li>
+<li>Social anxiety</li>
 </ul>
 <h3>Approaches I draw from:</h3>
 <ul class="home-list" style="columns: 1; padding-left: 16px;">
@@ -57,6 +55,7 @@ cta:
 </li>
 <li>Compassion-Focused Therapy</li>
 <li>Attachment-Focused Therapy</li>
+<li>Somatic-Focused Therapy</li>
 <li>Person-Centered Therapy</li>
 </ul>
 </div>
