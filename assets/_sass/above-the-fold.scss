@@ -183,18 +183,23 @@
   font-stretch: normal;
   letter-spacing: normal;
   text-align: center;
-  background-color: white;
-  border: 2px solid $section-dark-bg;
+  background-color: $section-dark-bg;
+  border: 2px solid white;
   border-radius: 6px;
-  color: $section-dark-bg;
+  color: white;
+  font-size: 20px;
   &:hover{
-    background-color: #fafafa;
+    background-color: lighten($section-dark-bg, 10%);
     cursor: pointer;
   }
   &.light{
     border: 2px solid $section-alt-bg;
     color: $section-alt-bg;
     padding: .75em 1.5em;
+  }
+  &.dark{
+    background-color: #2B2629;
+    border: 2px solid #2B2629;
   }
 }
 .breadcrumb{

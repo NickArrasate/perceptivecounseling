@@ -15,7 +15,7 @@ style:
       parallax: false
       overlay: null
       blur: false
-      use_content_card: false
+      use_content_card: true
     video:
       url_path: null
       type: null
@@ -29,7 +29,7 @@ cta:
   subtext: null
 
 ---
-<div class="">
+<div class="container">
 <h4>Crisis Numbers:</h4>
 <ul>
   <li>Clackamas County: 503-655-8585</li>

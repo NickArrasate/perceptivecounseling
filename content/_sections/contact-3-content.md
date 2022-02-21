@@ -1,7 +1,7 @@
 ---
 location: contact
 head:
-  title: null
+  title: My Contact Information
   subtitle_content: null
   img_path: null
 style:
@@ -29,15 +29,24 @@ cta:
   subtext: null
 
 ---
-<div class="d-flex align-items-center justify-content-around row">
-<div class="col-sm-10 col-md-8 col-lg-6">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;Email:lucy@perceptivecounselingpdx.com</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">Phone: 971-200-5481</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">Thank you for being here, I look forward to connecting with you.&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;">If you prefer not to speak on the phone, I can offer a 20-minute HIPAA-secure chat or video option in the place of the phone consultation.&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;">&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;">&nbsp;</p>
-<!-- <p dir="ltr" style="line-height: 1.38; margin-top: 11pt; margin-bottom: 11pt;"><em><span style="font-size: 12pt;"><strong>Location: 325 NW 21st Ave. Portland, OR</strong></span></span></em></p> -->
-<p>&nbsp;</p>
+<div class="d-flex align-items-center justify-content-around row container">
+<div class="col-sm-12 col-md-8 text-center" style="margin-top: 1em;">
+<div class="row">
+  <div class="col-sm-12 text-center">
+    <i class="fa fa-envelope small-hide" aria-hidden="true"></i>
+    <a class="contact-link" href="mailto:lucy@perceptivecounselingpdx.com">lucy@perceptivecounselingpdx.com</a>
+  </div>
+ </div>
+<div class="row">
+  
+  <div class="col-sm-12 text-center">
+    <i class="fa fa-phone small-hide" aria-hidden="true"></i>
+    <a class="contact-link" href="tel:1-971-200-5481">971-200-5481</a>
+  </div>
+  <!-- <div class="col-12 text-center small-show">
+    <i class="fa fa-moon-o" aria-hidden="true"></i>
+  </div> -->
+ </div>
+<row>Thank you for being here, I look forward to connecting with you.&nbsp;</row>
 </div>
 </div>

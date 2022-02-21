@@ -4,9 +4,9 @@
 
 layout: home
 published: true
-permalink: /fees/
+permalink: /consultation-and-fees/
 seo:
-  title: "Fees"
+  title: "Consultation & Standard Fees"
   description: "Sensitive, professional counseling and therapy serving the Portland area."
   canonical: null
   noindex: false

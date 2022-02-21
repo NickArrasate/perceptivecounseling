@@ -1,7 +1,7 @@
 ---
 location: fees
 head:
-  title: Fees
+  title: "Consultation & Standard Fees"
   subtitle_content: null
   img_path: null
 style:
@@ -13,7 +13,7 @@ style:
       url_path: >-
         https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645393194449-avinash-kumar-Yr146Eua_mM-unsplash.jpg
       pattern: false
-      parallax: false
+      parallax: true
       overlay: light
       blur: true
       use_content_card: false

@@ -13,7 +13,7 @@ style:
       url_path: >-
         /upload/image/jpeg/1569287984063_url_path_andrew-ridley-jR4Zf-riEjI-unsplash.jpg
       pattern: false
-      parallax: false
+      parallax: true
       overlay: light
       blur: true
       use_content_card: false

@@ -13,15 +13,15 @@ style:
       url_path: >-
         https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645405477339-steve-johnson--BP4qPfycSM-unsplash.jpg
       pattern: false
-      parallax: false
-      overlay: light
+      parallax: true
+      overlay: null
       blur: true
       use_content_card: false
     video:
       url_path: null
       type: null
       posterurl_path: null
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: 'rgba(255,255,255,0.80)'
 
 ---
 

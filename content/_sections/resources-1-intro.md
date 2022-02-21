@@ -1,8 +1,8 @@
 ---
-location: Resounces
+location: resources
 head:
   title: Resources
-  subtitle_content: null
+  subtitle_content: Mental Health Resources Available in the Portland Metro Area
   img_path: >-
     /upload/image/jpeg/1567376169673_img_path_mona-eendra-vC8wj_Kphak-unsplash.jpg
 style:
@@ -14,7 +14,7 @@ style:
       url_path: >-
         /upload/image/jpeg/1567376469067_url_path_mona-eendra-vC8wj_Kphak-unsplash.jpg
       pattern: false
-      parallax: false
+      parallax: true
       overlay: light
       blur: true
       use_content_card: false

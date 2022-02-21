@@ -3,7 +3,7 @@
     {% assign sorted = site.faq | sort: "category_order" %}
     {% assign categories = sorted | group_by: 'category' %}
     {% for category in categories %}
-    <h4 style="margin-top: 2em; border-bottom: 1px solid lightgrey">{{ category.name | capitalize }}</h4>
+    <h3 style="margin-top: 1em;">{{ category.name | capitalize }}</h3>
     {% assign index = forloop.index %}
     {% for item in category.items %}
     <!-- Accordion card -->
@@ -12,9 +12,9 @@
       <div class="card-header" role="tab" id="headingTwo{{ index }}{{ forloop.index }}">
         <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx{{ index }}{{ forloop.index }}" href="#collapse{{ index }}{{ forloop.index }}"
           aria-expanded="false" aria-controls="collapse{{ index }}{{ forloop.index }}">
-          <h5 class="mb-0">
+          <p class="mb-0">
             {{ item.title }} <i class="fas fa-angle-down rotate-icon"></i>
-          </h5>
+          </p>
         </a>
       </div>
       <!-- Card body -->

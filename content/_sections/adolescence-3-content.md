@@ -10,12 +10,13 @@ style:
   font_color: null
   media:
     img:
-      url_path: null
+      url_path: >-
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645405239524-geordanna-cordero-5NE6mX0WVfQ-unsplash.jpg
       pattern: false
-      parallax: false
+      parallax: true
       overlay: null
       blur: false
-      use_content_card: false
+      use_content_card: true
     video:
       url_path: null
       type: null
@@ -30,10 +31,11 @@ cta:
 
 ---
 <div class="d-flex align-items-center justify-content-around row">
-<div class="col-sm-10 col-md-8 col-lg-6">
-<p><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"><strong>You teen are navigating some difficult things!</strong> </span><span style="font-family: 'Times New Roman'; font-size: 12pt; white-space: pre-wrap;">I am here to offer a space for you to connect with keeping your sense of self even when everything is whirling around. I want to support you where you are right now, collaborate with you and validate what you are going through. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">Our work together can look different each day as things shift in your life.&nbsp; We could use art, music, writing all as a way to get in touch with the you that feels most like you and to process anxiety and trauma.&nbsp;</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<div>
+<h3>A Space All Your Own</h3>
+<p>This is a weird time to be alive and I want to offer a space where you can share all of what you are experiencing unfiltered. I want to help you as you are working toward saying what you need, as you hone in on your abilities and your intution so even when things are the most difficult, even when you are alone to make decisions, you can stand up for what you feel and think.</p>
+
+<p>I am here to offer a space for you to connect with keeping your sense of self even when everything is whirling around. I want to support you where you are right now, collaborate with you and validate what you are going through.</p>
+<p>Our work together can look different each day as things shift in your life.&nbsp; We could use art, music, writing all as a way to get in touch with the you that feels most like you and to process anxiety and trauma.&nbsp;</p>
 </div>
 </div>

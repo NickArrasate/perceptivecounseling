@@ -34,7 +34,7 @@ cta:
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-12">
 <h3>I provide support in these areas:</h3>
-<ul class="home-list" style="columns: 2; padding-left: 16px;">
+<ul class="home-list">
 <li>Trauma</li>
 <li>Anxiety</li>
 <li>Being Highly Sensitive (HSP)</li>
@@ -49,7 +49,7 @@ cta:
 <li>Social anxiety</li>
 </ul>
 <h3>Approaches I draw from:</h3>
-<ul class="home-list" style="columns: 1; padding-left: 16px;">
+<ul class="home-list" style="columns: 1;">
 <li>
 <p style="margin-bottom: 0;">Eye Movement Desensitization and Reprocessing (EMDR)</p>
 </li>

@@ -1,7 +1,7 @@
 ---
 location: contact
 head:
-  title: Schedule a Free Consultation
+  title: Schedule Your Consultation
   subtitle: null
   img_path: null
   vert-title: null

@@ -31,12 +31,16 @@ cta:
 
 ---
 <div class="d-flex align-items-center justify-content-around row">
-<div class="col-md-4 col-lg-4 text-center d-flex align-items-center"><!-- <img class="img-responsive" style="max-width: 275px; margin: 0 auto 2em;" src="/assets/images/71.jpg" alt="Lucy Sherman" /> --> <img src="{{ page.head.img_path }}" alt="Lucy Sherman" /></div>
+
 <div class="col-md-6">
-<h3>Lucy Sherman, MS, NCC, CRC, Professional Counselor Associate, EMDR Therapist</h3>
-<p><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">I am honored to collaborate together and form a relationship where you can feel comfortable, seen and heard while sharing the parts of you that have been hidden, dismissed or overlooked.</span></p>
-<p><span style="color: #403027; font-family: verdana, geneva, sans-serif; font-size: 12pt;">I love to bring creativity into sessions in a way that feels inviting to you. We have the opportunity to explore through art, writing and metaphors to tap into the incredible resources you already have.</span></p>
-<p><span style="color: #403027; font-family: verdana, geneva, sans-serif; font-size: 12pt;"> I also draw from mindfulness to deepen further body/mind connection and am trained in Somatic Attachment-Focused EMDR if you are interested in processing in that way.&nbsp;</span></p>
-<p><span style="font-family: verdana, geneva, sans-serif; font-size: 12pt;">When I am not working with my wonderful clients, I enjoy painting and crafting, connecting with close friends, being with my sweet dog and spending time in nature.&nbsp;</span></p>
+<h3>Lucy Sherman, MS, NCC, CRC</h3>
+<h4>Professional Counselor Associate, EMDR Therapist</h4>
+<p>I am honored to collaborate together and form a relationship where you can feel comfortable, seen and heard while sharing the parts of you that have been hidden, dismissed or overlooked.</p>
+<p>I love to bring creativity into sessions in a way that feels inviting to you. We have the opportunity to explore through art, writing and metaphors to tap into the incredible resources you already have.</p>
+<p> I also draw from mindfulness to deepen further body/mind connection and am trained in Somatic Attachment-Focused EMDR if you are interested in processing in that way.&nbsp;</p>
+<p>When I am not working with my wonderful clients, I enjoy painting and crafting, connecting with close friends, being with my sweet dog and spending time in nature.&nbsp;</p>
+</div>
+<div class="col-md-6 col-lg-4 text-center d-flex align-items-center">
+  <img src="{{ page.head.img_path }}" alt="Lucy Sherman" />
 </div>
 </div>

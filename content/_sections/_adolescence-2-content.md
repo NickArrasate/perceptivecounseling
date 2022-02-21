@@ -1,5 +1,5 @@
 ---
-location: about
+location: adolescence
 head:
   title: null
   subtitle_content: null
@@ -31,21 +31,7 @@ cta:
 ---
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
-<h4>Providing support in these areas:</h4>
-<ul style="columns: 2;">
-<li>Self Esteem</li>
-<li>Adjustment to Disability and chronic illness</li>
-<li>Life Transitions</li>
-<li>Emotional abuse</li>
-<li>Depression</li>
-<li>Anxiety</li>
-<li>Chronic Pain</li>
-<li>Complex PTSD</li>
-<li>negative self talk</li>
-<li>Relationship Issues</li>
-<li>Sexual Abuse</li>
-<li>Stress</li>
-<li>women's issues</li>
-</ul>
+<p >This is a weird time to be alive and I want to offer a space where you can share all of what you are experiencing unfiltered. I want to help you as you are working toward saying what you need, as you hone in on your abilities and your intution so even when things are the most difficult, even when you are alone to make decisions, you can stand up for what you feel and think.</p>
+<p>&nbsp;</p>
 </div>
 </div>
