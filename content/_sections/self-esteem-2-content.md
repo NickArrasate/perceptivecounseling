@@ -31,7 +31,7 @@ cta:
 ---
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-sm-10 col-md-8 col-lg-6">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">Do </span><strong><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">you ever notice the words, &ldquo;I&rsquo;m not good enough,&rdquo; &ldquo;I&rsquo;m not worthy,&rdquo; or &ldquo;I'll be found out for what I really am&rdquo; come into your mind?</span></strong></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-family: Times New Roman;"><span style="white-space: pre-wrap;">You may be feeling overwhelmed lately with all of this uncertainty and you are noticing not feeling good enough in many situations. You want to connect more with yourself and express yourself with others but may be feeling stuck. </span></span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p><span style="font-size: 12pt; font-family: 'Times New Roman'; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span></p>
