@@ -33,10 +33,8 @@ cta:
 <div class="d-flex align-items-center justify-content-around row">
 <div class="">
 <h3>Our Work Together</h3>
-<p>You may be feeling overwhelmed lately with all of this uncertainty and you are noticing not feeling good enough in many situations. You want to connect more with yourself and express yourself with others but may be feeling stuck.</p>
+<p>You may be feeling overwhelmed lately with all of this uncertainty and you are noticing not feeling good enough. You want to connect more with yourself and express yourself with others but may be feeling stuck.</p>
 <p>I offer a gentle and warm environment to explore the feelings that are coming up for you around being enough and feeling worthy.</p>
-
-<p>We collaborate together to explore grounding tools for soothing anxiety and overwhelm in the present while also exploring the root of where these beliefs and feelings come from. I bring creativity, humor and care for each client into the room with you.></p>
-
+<p>We collaborate together to explore creative grounding tools for soothing anxiety and overwhelm in the present while also exploring the root of where these beliefs and feelings come from. I bring creativity, humor and care into the room with you.</p>
 </div>
 </div>
