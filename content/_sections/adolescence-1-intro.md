@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645394261146-geordanna-cordero-2Qg4y32pdCc-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645585535890-pawel-czerwinski-R5ZkGdb5Zb8-unsplash.jpg
       pattern: false
       parallax: true
       overlay: null
