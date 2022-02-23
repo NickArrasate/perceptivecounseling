@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645585722419-jason-leung-Xaanw0s0pMk-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645585869895-pawel-czerwinski-Nmeu6odqoNM-unsplash.jpg
       pattern: false
       parallax: true
       overlay: light
