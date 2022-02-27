@@ -47,6 +47,8 @@ cta:
 <li>Women's issues</li>
 <li>Teen Issues</li>
 <li>Social anxiety</li>
+<li>Sexual Assault</li>
+<li>Creativity&nbsp;</li>
 </ul>
 <h3>Approaches I draw from:</h3>
 <ul class="home-list" style="columns: 1;">
