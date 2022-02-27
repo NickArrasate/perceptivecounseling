@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        /upload/image/jpeg/1569287984063_url_path_andrew-ridley-jR4Zf-riEjI-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645993409847-geordanna-cordero-2Qg4y32pdCc-unsplash.jpg
       pattern: false
       parallax: true
       overlay: light
