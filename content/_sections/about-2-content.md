@@ -35,6 +35,7 @@ cta:
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-md-6">
 <h3>Lucy Sherman, MS, NCC, CRC</h3>
+<p>She/her pronouns</p>
 <h4>Professional Counselor Associate, EMDR Therapist</h4>
 <p>I am honored to collaborate together!</p>
 <p>I love to bring creativity, imagination and humor into our work in a way that feels inviting! We have the opportunity to explore through drawing, writing, movement and metaphors to process your experiences and build on the resources you have.&nbsp;</p>
