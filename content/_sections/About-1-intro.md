@@ -1,7 +1,7 @@
 ---
 location: about
 head:
-  title: About My Work and Experience
+  title: About Me  and The Way I Work
   subtitle_content: null
   img_path: null
   use_content_card: false
