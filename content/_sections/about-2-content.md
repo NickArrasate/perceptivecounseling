@@ -31,16 +31,13 @@ cta:
 
 ---
 <div class="d-flex align-items-center justify-content-around row">
-
 <div class="col-md-6">
 <h3>Lucy Sherman, MS, NCC, CRC</h3>
 <h4>Professional Counselor Associate, EMDR Therapist</h4>
-<p>I am honored to collaborate together and form a relationship where you can feel comfortable, seen and heard while sharing the parts of you that have been hidden, dismissed or overlooked.</p>
-<p>I love to bring creativity into sessions in a way that feels inviting to you. We have the opportunity to explore through art, writing and metaphors to tap into the incredible resources you already have.</p>
-<p> I also draw from mindfulness to deepen further body/mind connection and am trained in Somatic Attachment-Focused EMDR if you are interested in processing in that way.&nbsp;</p>
-<p>When I am not working with my wonderful clients, I enjoy painting and crafting, connecting with close friends, being with my sweet dog and spending time in nature.&nbsp;</p>
+<p>I am honored to collaborate together!</p>
+<p>I love to bring creativity, imagination and humor into our work in a way that feels inviting to you! We have the opportunity to explore through drawing, writing, movement, visual cards and metaphors to tap into the incredible resources you already.</p>
+<p>I have a gentle relational approach and always want to make sure that we are going at a pace that feels right for you. I bring guided visualization and mindful grounding exercises to deepen further body/mind connection and am trained in Somatic Attachment-Focused EMDR and have training in Expressive Arts for Trauma.</p>
+<p>When I am not working with my wonderful clients, I enjoy painting, crafting and writing, connecting with close friends and partner and being in nature with my sweet Basset mix Penny.&nbsp;</p>
 </div>
-<div class="col-md-6 col-lg-4 text-center d-flex align-items-center">
-  <img src="{{ page.head.img_path }}" alt="Lucy Sherman" />
-</div>
+<div class="col-md-6 col-lg-4 text-center d-flex align-items-center"><img src="{{ page.head.img_path }}" alt="Lucy Sherman" /></div>
 </div>
