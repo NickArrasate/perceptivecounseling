@@ -56,7 +56,8 @@ cta:
 <li>Compassion-Focused Therapy</li>
 <li>Attachment-Focused Therapy</li>
 <li>Somatic-Focused Therapy</li>
-<li>Person-Centered Therapy</li>
+<li>Person-Centered Therapy&nbsp;</li>
+<li>Expressive Arts Therapy&nbsp;</li>
 </ul>
 </div>
 </div>
