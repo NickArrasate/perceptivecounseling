@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645585846533-pawel-czerwinski-Nmeu6odqoNM-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645991970512-sharon-mccutcheon-jYbKxinWQGk-unsplash.jpg
       pattern: false
       parallax: true
       overlay: null
