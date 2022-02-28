@@ -33,8 +33,9 @@ cta:
 <div class="d-flex align-items-center justify-content-around row">
 <div>
 <h3>A Space All Your Own</h3>
-<p>This is a strange time and I want to offer a space where you can share all of what you are experiencing unfiltered. I want to help you as you are working toward saying what you need, as you hone in on your abilities and your intution so even when things are the most difficult, even when you are alone to make decisions, you can stand up for what you feel and think.</p>
-<p>I am here to offer a space for you to connect with keeping your sense of self even when everything is whirling around. I want to support you where you are right now, collaborate with you and validate what you are going through.</p>
-<p>Our work together can look different each day as things shift in your life.&nbsp; We could use art, music, writing all as a way to get in touch with the you that feels most like you and to process anxiety and trauma.&nbsp;</p>
+<p>This is a strange time and I want to offer a space where you can share all of what you are experiencing unfiltered.</p>
+<p>I want to help you as you are working toward saying what you need, as you are coping with the state of the world, as you are gaining more autonomy, setting boundaries and trusting your intuition.</p>
+<p>You can have a place in your week to connect with yourself and I will meet you wherever you are. Our work together can look different as things shift in your life.&nbsp;</p>
+<p>We may have sessions of more needing to verbal release/vent, others that are more quiet and reflective or building on tools to stay grounded while things are whirling around. We can use drawing, writing, music all as a way to process what you are going through.&nbsp;</p>
 </div>
 </div>
