@@ -37,6 +37,7 @@ cta:
 <h3>Lucy Sherman, MS, NCC, CRC</h3>
 <p>She/ Her</p>
 <h4>Professional Counselor Associate, EMDR Therapist</h4>
+<p><strong>Creativity in Counseling</strong></p>
 <p>I am honored to collaborate together!</p>
 <p>I love to bring creativity, imagination and humor into our work in a way that feels inviting! We have the opportunity to explore through drawing, writing, movement and metaphors to process your experiences and build on the resources you have.&nbsp;</p>
 <p>My approach is gentle, compassionate and relational. I identify as a Highly Sensitive Person (HSP) and always want to make sure that we are going at a pace that feels right for you in a way that feels right for you.</p>
