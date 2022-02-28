@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645992264998-thom-milkovic-cBS0qKJM-P4-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646009702904-wesley-tingey-ZdOW9Qd8mQo-unsplash.jpg
       pattern: false
       parallax: true
       overlay: null
