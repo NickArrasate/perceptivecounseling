@@ -39,10 +39,12 @@ cta:
 <h4>Professional Counselor Associate, EMDR Therapist</h4>
 <p>&nbsp;</p>
 <p>I am honored for the chance to collaborate together!</p>
-<p>I love to bring creativity, imagination and humor into our work in a way that feels inviting! We have the opportunity to explore through drawing, writing, movement and metaphors to process your experiences and build on the resources you have.&nbsp;</p>
+<p>I love to bring creativity, imagination and humor into our work in a way that feels inviting!</p>
+<p><strong>Approach to Counseling </strong></p>
+<p>We have the opportunity to explore through drawing, writing, movement and metaphors to process your experiences and build on the resources you have.&nbsp;</p>
 <p>My approach is gentle, compassionate and relational. I identify as a Highly Sensitive Person (HSP) and always want to make sure that we are going at a pace that feels right for you in a way that feels right for you.</p>
-<p>I bring guided visualization and mindful grounding exercises to deepen further body/mind connection and am trained in Somatic Attachment-Focused EMDR.</p>
-<p>When I am not working with my wonderful clients, I enjoy painting, crafting and writing, building on my own creative self care rituals, listening to therapy podcasts, connecting with close friends and partner and being in nature with my sweet Basset mix Penny.&nbsp;</p>
+<p>I bring guided visualization and mindful grounding exercises to deepen further body/mind connection and am trained in Somatic Attachment-Focused EMDR.&nbsp;</p>
+<p>When I am not working with my wonderful clients, I enjoy crafting and writing, building on my own creative self care rituals, listening to therapy podcasts, connecting with close friends and partner and being in nature with my sweet Basset mix Penny.&nbsp;</p>
 </div>
 <div class="col-md-6 col-lg-4 text-center d-flex align-items-center"><img src="{{ page.head.img_path }}" alt="Lucy Sherman" /></div>
 </div>
