@@ -15,10 +15,10 @@ style:
       url_path: >-
         https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646008307219-fly-d-0eHi3Ic804U-unsplash.jpg
       pattern: false
-      parallax: true
+      parallax: false
       overlay: light
-      blur: true
-      use_content_card: true
+      blur: false
+      use_content_card: false
     video:
       url_path: null
       type: null
