@@ -21,7 +21,7 @@ style:
       use_content_card: false
     video:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646009119490-Movie
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646009307154-Movie
         on 9-30-21 at 5.32 PM #2 (1).mov
       type: null
       posterurl_path: null
