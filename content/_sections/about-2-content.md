@@ -13,12 +13,12 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645399606933-eberhard-grossgasteiger-S-2Ukb_VqpA-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646008307219-fly-d-0eHi3Ic804U-unsplash.jpg
       pattern: false
-      parallax: false
-      overlay: null
-      blur: false
-      use_content_card: false
+      parallax: true
+      overlay: light
+      blur: true
+      use_content_card: true
     video:
       url_path: null
       type: null
