@@ -33,8 +33,8 @@ cta:
 <div class="col-sm-10 col-md-8 col-lg-6">
 <h4>Cancellation Policy</h4>
 <p>You will not be charged for a missed session if you provide me with 24 hours&rsquo; notice. Cancellations with no notice or notice under 24 hours will incur a fee equal to one session cost.</p>
-<h4>Sliding Scale</h4>
-<p>If my fees are a barrier to you getting the support you need, please feel free to inquire about my limited sliding scale spots.</p>
+<h4>Limited Sliding Scale</h4>
+<p>If my fees are a barrier to you getting the support you need, please feel free to inquire about my limited sliding scale spots. Sliding scale is meant to be ever-changing as clients's financial situation changes, the fee can adjust to open up more lower fee options for those that need it.&nbsp;</p>
 <p><strong>Superbills</strong></p>
 <p>Some insurance companies will reimburse for out of network benefits. You can reach out to your specific insurance provider, ask if they will cover mental health counseling from a Professional Counselor Associate and if they do then you will pay the fee for counseling. Once you have paid then I can provide you with a superbill document that you can submit to your insurance provider to reimburse for some portion of services.</p>
 <p><strong>&nbsp;Billing and Good Faith Estimate</strong></p>
