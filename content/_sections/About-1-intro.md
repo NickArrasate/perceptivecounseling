@@ -15,7 +15,7 @@ style:
         https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645992352382-fly-d-0eHi3Ic804U-unsplash.jpg
       pattern: false
       parallax: true
-      overlay: dark
+      overlay: ''
       blur: true
     video:
       url_path: null
