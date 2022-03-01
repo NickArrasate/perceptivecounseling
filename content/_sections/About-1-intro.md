@@ -15,7 +15,7 @@ style:
         https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646176572499-avinash-kumar-4-gLbNUi1Uc-unsplash.jpg
       pattern: false
       parallax: true
-      overlay: ''
+      overlay: light
       blur: true
     video:
       url_path: null
