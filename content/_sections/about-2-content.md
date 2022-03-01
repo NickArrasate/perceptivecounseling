@@ -13,7 +13,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646008307219-fly-d-0eHi3Ic804U-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1646176634455-avinash-kumar-4-gLbNUi1Uc-unsplash.jpg
       pattern: false
       parallax: false
       overlay: light
