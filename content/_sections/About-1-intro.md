@@ -1,7 +1,7 @@
 ---
 location: about
 head:
-  title: A Bit About Me and My Approach to Counseling
+  title: About My Approach  and Experience
   subtitle_content: null
   img_path: null
   use_content_card: false
