@@ -40,7 +40,7 @@ cta:
 <p>&nbsp;</p>
 <p>I am honored for the chance to collaborate together!</p>
 <p>I love to bring creativity, imagination and humor into our work in a way that feels inviting!</p>
-<p><span style="font-size: 14pt;"><strong>Approach to Counseling </strong></span></p>
+<p><span style="font-size: 18pt;"><strong>Approach to Counseling </strong></span></p>
 <p>We have the opportunity to explore through drawing, writing, movement and metaphors to process your experiences and build on the resources you have.&nbsp;</p>
 <p>My approach is gentle, compassionate and relational. I identify as a Highly Sensitive Person (HSP) and always want to make sure that we are going at a pace that feels right for you in a way that feels right for you.</p>
 <p>I bring guided visualization and mindful grounding exercises to deepen further body/mind connection and am trained in Somatic Attachment-Focused EMDR.&nbsp;</p>
