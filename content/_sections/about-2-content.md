@@ -38,7 +38,7 @@ cta:
 <p>She/ Her</p>
 <h4>Professional Counselor Associate, EMDR Therapist</h4>
 <p>&nbsp;</p>
-<p>I am honored for the chance to collaborate together!</p>
+<p>Hey, I'm Lucy and I am honored for the chance to collaborate together!</p>
 <p>I love to bring creativity, imagination and humor into our work in a way that feels inviting!</p>
 <p><span style="font-size: 18pt;"><strong>Approach to Counseling </strong></span></p>
 <p>We have the opportunity to explore through drawing, writing, movement and metaphors to process your experiences and build on the resources you have.&nbsp;</p>
