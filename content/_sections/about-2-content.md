@@ -3,7 +3,8 @@ location: about
 head:
   title: null
   subtitle_content: null
-  img_path: null
+  img_path: >-
+    https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1651594996005-Optimized-IMG_2230.jpeg
 style:
   id: ''
   class: feature-blocks alt
