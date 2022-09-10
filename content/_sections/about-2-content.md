@@ -4,9 +4,9 @@ head:
   title: null
   subtitle_content: null
   img_path: >-
-    https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1651594996005-Optimized-IMG_2230.jpeg
-  img_2_path:
-  img_3_path:
+    https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836290541-maureen-sgro-BpFAG6JSugE-unsplash__1_.jpg
+  img_2_path: null
+  img_3_path: null
 style:
   id: ''
   class: feature-blocks alt
@@ -79,16 +79,6 @@ cta:
 </div>
 {% if page.head.img_path %}
 <div class="col-md-4 d-md-block d-none">
-  <div class="d-flex flex-direction-column align-items-center justify-content-space-between">
-    <img style="max-width: 100%" src="{{page.head.img_path}}" alt="personal image"/>
-
-  {% if img_2_path %}
-    <img style="max-width: 100%" src="{{page.head.img_2_path}}" alt="personal image"/>
-  {% endif %}
-  {% if img_3_path %}
-    <img style="max-width: 100%" src="{{page.head.img_3_path}}" alt="personal image"/>
-  {% endif %}
-  </div>
+<div class="d-flex flex-direction-column align-items-center justify-content-space-between"><img style="max-width: 100%;" src="{{page.head.img_path}}" alt="personal image" /> {% if img_2_path %} <img style="max-width: 100%;" src="{{page.head.img_2_path}}" alt="personal image" /> {% endif %} {% if img_3_path %} <img style="max-width: 100%;" src="{{page.head.img_3_path}}" alt="personal image" /> {% endif %}</div>
 </div>
-  {% endif %}
-</div>
+{% endif %}</div>
