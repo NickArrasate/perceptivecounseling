@@ -84,18 +84,8 @@ cta:
 </div>
 {% if page.style.page_images.img_path %}
 <div class="col-md-4 d-md-block d-none">
-  <div class="d-flex flex-direction-column align-items-center justify-content-space-between">
-    <img style="max-width: 100%" src="{{page.style.page_images.img_path}}" alt="personal image"/>
-
-  {% if page.style.page_images.img_2_path %}
-    <img style="max-width: 100%" src="{{page.style.page_images.img_2_path}}" alt="personal image"/>
-  {% endif %}
-  {% if page.style.page_images.img_3_path %}
-    <img style="max-width: 100%" src="{{page.style.page_images.img_3_path}}" alt="personal image"/>
-  {% endif %}
-  </div>
-</div>
-  {% endif %}
+<div class="d-flex flex-direction-column align-items-center justify-content-space-between"><img style="max-width: 100%;" src="{{page.style.page_images.img_path}}" alt="personal image" /> {% if page.style.page_images.img_2_path %} <img style="max-width: 100%;" src="{{page.style.page_images.img_2_path}}" alt="personal image" /> {% endif %} {% if page.style.page_images.img_3_path %} <img style="max-width: 100%;" src="{{page.style.page_images.img_3_path}}" alt="personal image" /> {% endif %}</div>
 </div>
 {% endif %}</div>
+<p>{% endif %}</p>
 <p>{% endif %}</p>
