@@ -33,7 +33,7 @@ cta:
 ---
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-md-6">
-<h3>Lucy Sherman, MS, NCC, CRC</h3>
+<p><strong><span style="font-size: 24pt;">Lucy Sherman, MS, NCC, CRC</span></strong></p>
 <p>She/ Her</p>
 <h4>Professional Counselor Associate, EMDR Therapist</h4>
 <p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;">&nbsp;</p>
