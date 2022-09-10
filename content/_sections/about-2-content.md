@@ -5,8 +5,8 @@ head:
   subtitle_content: null
   img_path: >-
     https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1651594996005-Optimized-IMG_2230.jpeg
-  img_path_2:
-  img_path_3:
+  img_2_path:
+  img_3_path:
 style:
   id: ''
   class: feature-blocks alt
@@ -82,11 +82,11 @@ cta:
   {% if img_path %}
     <img style="max-width: 100%" src="{{img_path}}" alt="personal image"/>
   {% endif %}
-  {% if img_path_2 %}
-    <img style="max-width: 100%" src="{{img_path_2}}" alt="personal image"/>
+  {% if img_2_path %}
+    <img style="max-width: 100%" src="{{img_2_path}}" alt="personal image"/>
   {% endif %}
-  {% if img_path_3 %}
-    <img style="max-width: 100%" src="{{img_path_3}}" alt="personal image"/>
+  {% if img_3_path %}
+    <img style="max-width: 100%" src="{{img_3_path}}" alt="personal image"/>
   {% endif %}
   </div>
 </div>
