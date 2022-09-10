@@ -32,7 +32,7 @@ cta:
 
 ---
 <div class="d-flex align-items-center justify-content-around row">
-<div class="col-md-6">
+<div class="col-md-8">
 <p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="font-size: 24pt;">Lucy Sherman, MS, NCC, CRC</span></strong></span></p>
 <p>She/ Her</p>
 <h4>Professional Counselor Associate, EMDR Therapist</h4>
