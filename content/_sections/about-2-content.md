@@ -24,9 +24,12 @@ style:
       posterurl_path: null
   tint_color: null
   page_images:
-    img_path:
-    img_2_path:
-    img_3_path:
+    img_path: >-
+      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836748446-maureen-sgro-BpFAG6JSugE-unsplash__1_.jpg
+    img_2_path: >-
+      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836760376-sixteen-miles-out-hUBXUk8wzqM-unsplash.jpg
+    img_3_path: >-
+      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836766438-callum-hill-Yt7orZ6v3vc-unsplash.jpg
 cta:
   headline: null
   btnText: null
@@ -95,3 +98,4 @@ cta:
   {% endif %}
 </div>
 {% endif %}</div>
+<p>{% endif %}</p>
