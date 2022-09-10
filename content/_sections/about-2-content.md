@@ -80,13 +80,13 @@ cta:
 {% if img_path %}
 <div class="col-md-4 d-md-block d-none">
   <div class="d-flex flex-direction-column align-items-center justify-content-space-between">
-    <img style="max-width: 100%" src="{{img_path}}" alt="personal image"/>
+    <img style="max-width: 100%" src="{{page.head.img_path}}" alt="personal image"/>
 
   {% if img_2_path %}
-    <img style="max-width: 100%" src="{{img_2_path}}" alt="personal image"/>
+    <img style="max-width: 100%" src="{{page.head.img_2_path}}" alt="personal image"/>
   {% endif %}
   {% if img_3_path %}
-    <img style="max-width: 100%" src="{{img_3_path}}" alt="personal image"/>
+    <img style="max-width: 100%" src="{{page.head.img_3_path}}" alt="personal image"/>
   {% endif %}
   </div>
 </div>
