@@ -5,8 +5,6 @@ head:
   subtitle_content: null
   img_path: >-
     https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1651594996005-Optimized-IMG_2230.jpeg
-  img_2_path:
-  img_3_path:
 style:
   id: ''
   class: feature-blocks alt
@@ -25,6 +23,10 @@ style:
       type: null
       posterurl_path: null
   tint_color: null
+  page_images:
+    img_path:
+    img_2_path:
+    img_3_path:
 cta:
   headline: null
   btnText: null
@@ -77,16 +79,16 @@ cta:
 <p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;">&nbsp;</p>
 <p class="p1" style="margin: 0px 0px 12px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; -webkit-text-stroke-color: #000000;"><span class="s1" style="font-kerning: none; font-size: 14pt;">When I am not working with my lovely clients, I enjoy crafting, writing, building on my own creative self care rituals, connecting with close friends and going out into nature with my sweet Basset mix Penny.&nbsp;</span></p>
 </div>
-{% if page.head.img_path %}
+{% if page.style.page_images.img_path %}
 <div class="col-md-4 d-md-block d-none">
   <div class="d-flex flex-direction-column align-items-center justify-content-space-between">
-    <img style="max-width: 100%" src="{{page.head.img_path}}" alt="personal image"/>
+    <img style="max-width: 100%" src="{{page.style.page_images.img_path}}" alt="personal image"/>
 
   {% if img_2_path %}
-    <img style="max-width: 100%" src="{{page.head.img_2_path}}" alt="personal image"/>
+    <img style="max-width: 100%" src="{{page.style.page_images.img_2_path}}" alt="personal image"/>
   {% endif %}
   {% if img_3_path %}
-    <img style="max-width: 100%" src="{{page.head.img_3_path}}" alt="personal image"/>
+    <img style="max-width: 100%" src="{{page.style.page_images.img_3_path}}" alt="personal image"/>
   {% endif %}
   </div>
 </div>
