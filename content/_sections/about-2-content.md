@@ -27,9 +27,9 @@ style:
     img_path: >-
       https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836748446-maureen-sgro-BpFAG6JSugE-unsplash__1_.jpg
     img_2_path: >-
-      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836760376-sixteen-miles-out-hUBXUk8wzqM-unsplash.jpg
+      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662839514906-anna-kolosyuk-D5nh6mCW52c-unsplash.jpg
     img_3_path: >-
-      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836766438-callum-hill-Yt7orZ6v3vc-unsplash.jpg
+      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662839527193-IMG_0009__1_.jpg
 cta:
   headline: null
   btnText: null
@@ -84,9 +84,6 @@ cta:
 </div>
 {% if page.style.page_images.img_path %}
 <div class="col-md-4 d-md-block d-none p-4">
-<div class="d-flex flex-column align-items-center justify-content-between"><img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_path}}" alt="personal image" />
-{% if page.style.page_images.img_2_path %} <img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_2_path}}" alt="personal image" /> {% endif %}
-{% if page.style.page_images.img_3_path %} <img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_3_path}}" alt="personal image" /> {% endif %}</div>
+<div class="d-flex flex-column align-items-center justify-content-between"><img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_path}}" alt="personal image" /> {% if page.style.page_images.img_2_path %} <img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_2_path}}" alt="personal image" /> {% endif %} {% if page.style.page_images.img_3_path %} <img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_3_path}}" alt="personal image" /> {% endif %}</div>
 </div>
-{% endif %}
-
+{% endif %}</div>
