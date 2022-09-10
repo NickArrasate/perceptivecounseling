@@ -5,6 +5,8 @@ head:
   subtitle_content: null
   img_path: >-
     https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1651594996005-Optimized-IMG_2230.jpeg
+  img_path_2:
+  img_path_3:
 style:
   id: ''
   class: feature-blocks alt
@@ -74,5 +76,18 @@ cta:
 <p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;"><span class="s1" style="font-kerning: none; font-size: 14pt;">More on that in the EMDR tab on this site and I'm always happy to share about what this looks like in our work together when we connect!&nbsp;</span></p>
 <p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;">&nbsp;</p>
 <p class="p1" style="margin: 0px 0px 12px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; -webkit-text-stroke-color: #000000;"><span class="s1" style="font-kerning: none; font-size: 14pt;">When I am not working with my lovely clients, I enjoy crafting, writing, building on my own creative self care rituals, connecting with close friends and going out into nature with my sweet Basset mix Penny.&nbsp;</span></p>
+</div>
+<div class="col-md-4 d-md-block d-none">
+  <div class="d-flex flex-direction-column align-items-center justify-content-space-between">
+  {% if img_path %}
+    <img style="max-width: 100%" src="{{img_path}}" alt="personal image"/>
+  {% endif %}
+  {% if img_path_2 %}
+    <img style="max-width: 100%" src="{{img_path_2}}" alt="personal image"/>
+  {% endif %}
+  {% if img_path_3 %}
+    <img style="max-width: 100%" src="{{img_path_3}}" alt="personal image"/>
+  {% endif %}
+  </div>
 </div>
 </div>
