@@ -27,7 +27,7 @@ style:
     img_path: >-
       https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662836748446-maureen-sgro-BpFAG6JSugE-unsplash__1_.jpg
     img_2_path: >-
-      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662839514906-anna-kolosyuk-D5nh6mCW52c-unsplash.jpg
+      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1666303075684-edz-norton-eUX74J_IpXw-unsplash__1_.jpg
     img_3_path: >-
       https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662839527193-IMG_0009__1_.jpg
 cta:
