@@ -35,31 +35,23 @@ cta:
 <div class="col-12">
 <h3>I provide support in these areas:</h3>
 <ul class="home-list">
-<li>Trauma</li>
-<li>Anxiety</li>
+<li>Complex Trauma</li>
+<li>Sexual Trauma&nbsp;</li>
+<li>Childhood Trauma</li>
 <li>Being Highly Sensitive (HSP)</li>
-<li>Chronic Pain</li>
 <li>Self Esteem</li>
-<li>Disability and Chronic Illness</li>
-<li>Complex PTSD</li>
-<li>Relationship Issues</li>
-<li>Sexual Abuse</li>
 <li>Women's issues</li>
-<li>Teen Issues</li>
-<li>Social anxiety</li>
-<li>Sexual Assault</li>
-<li>Creativity&nbsp;</li>
+<li>Creatively blocked&nbsp;</li>
 </ul>
 <h3>Approaches I draw from:</h3>
 <ul class="home-list" style="columns: 1;">
 <li>
 <p style="margin-bottom: 0;">Eye Movement Desensitization and Reprocessing (EMDR)</p>
 </li>
+<li>Expressive Arts Therapy&nbsp;</li>
 <li>Compassion-Focused Therapy</li>
-<li>Attachment-Focused Therapy</li>
 <li>Somatic-Focused Therapy</li>
 <li>Person-Centered Therapy&nbsp;</li>
-<li>Expressive Arts Therapy&nbsp;</li>
 </ul>
 </div>
 </div>
