@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1666300756037-elena-mozhvilo-E00p5ySEHmM-unsplash__1_.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1666300832931-kseniya-lapteva-5syls8GxO1Q-unsplash.jpg
       pattern: false
       parallax: true
       overlay: ''
