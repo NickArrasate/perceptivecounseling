@@ -1,7 +1,7 @@
 ---
 location: about
 head:
-  title: About My Approach  and Experience
+  title: 'About What it is Like to Work Together '
   subtitle_content: null
   img_path: null
   use_content_card: false
