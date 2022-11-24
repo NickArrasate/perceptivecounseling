@@ -1,9 +1,8 @@
 ---
 title: What is the cancellation policy?
-category: 'I Just Became a Client'
+category: I Just Became a Client
 category_order: '3'
 
 ---
 <p>Pretty standard, if you cancel before 24 hours then there is no fee. If you cancel under 24 hours there is a fee.</p>
-<p>Exception: If the cancelation is due to inclement weather that is out of your control there is no fee.</p>
-<p>If I have availability in my schedule I will often try to work with you to reschedule within the same week you missed.</p>
+<p>&nbsp;</p>
