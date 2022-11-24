@@ -1,7 +1,7 @@
 ---
 location: adolescence
 head:
-  title: Teens (17-18)
+  title: Teens (16-18)
   subtitle_content: null
   img_path: null
 style:
