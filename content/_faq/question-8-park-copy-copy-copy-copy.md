@@ -2,5 +2,6 @@
 title: Is there free parking for clients?
 category: Logistics
 category_order: 1
+
 ---
-Yes! You may take any space in the parking lot immediately outside of the office building.
+<p>Yes! There is ample street parking all aroud the office building.&nbsp;</p>
