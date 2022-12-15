@@ -11,7 +11,7 @@ style:
   media:
     img:
       url_path: >-
-        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1645991640040-fly-d-yg00N_4IVPk-unsplash.jpg
+        https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1671141901244-nikita-kachanovsky-_l0LWXSubVk-unsplash.jpg
       pattern: false
       parallax: true
       overlay: light
