@@ -88,7 +88,7 @@ body, p {
   font-weight: 400;
   text-rendering: optimizelegibility;
 	font-size: 22px;
-  @media screen and(max-width: 768px){
+  @media screen and (max-width: 768px){
     font-size: 18px;
   }
   line-height: 1.6;
@@ -419,7 +419,7 @@ section.grey{
 .btn, .btn-sm, .btn-lg, .btn-xs {
   border-radius:$radius !important;
   font-size: 22px;
-  @media screen and(max-width: 768px){
+  @media screen and (max-width: 768px){
     font-size: 18px;
   }
 }
