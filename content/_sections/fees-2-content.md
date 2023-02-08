@@ -37,7 +37,7 @@ cta:
 </div>
 <div class="col-6 text-center">
 <p class="underlined-text">50 minute counseling session</p>
-<p>$140</p>
+<p>$150</p>
 </div>
 </div>
 <div class="col-sm-12 row ">&nbsp;</div>
