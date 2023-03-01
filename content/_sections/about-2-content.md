@@ -45,7 +45,7 @@ cta:
 <h4><span style="font-size: 18pt;">Professional Counselor Associate, EMDR Therapist</span></h4>
 <p>&nbsp;</p>
 <p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;">&nbsp;</p>
-<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;"><span style="font-size: 24pt; font-weight: bold; white-space: pre-wrap;">Our Magical Toolbox for Therapy Together </span></p>
+<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;"><span style="font-size: 36pt; font-weight: bold; white-space: pre-wrap;">Our Magical Toolbox for Therapy Together </span></p>
 <br /><br /><br />
 <h4 dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 24pt;"><strong><span style="font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Creative Expression 🎨</span></strong></span></h4>
 <br />
