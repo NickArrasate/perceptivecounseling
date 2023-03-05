@@ -42,7 +42,8 @@ cta:
 <div class="col-md-8">
 <p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="font-size: 24pt;">Lucy Sherman, MS, NCC, CRC</span></strong></span></p>
 <p><span style="font-size: 18pt;">She/ Her</span></p>
-<h4><span style="font-size: 18pt;">Professional Counselor Associate,&nbsp; EMDR Therapist </span></h4>
+<h4><span style="font-size: 18pt;">Professional Counselor Associate,&nbsp; EMDR Therapist</span></h4>
+<p>&nbsp;</p>
 <h4><span style="font-size: 18pt;">In Person Sessions on NE Alberta 🏡</span></h4>
 <p>&nbsp;</p>
 <h4 dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 24pt;"><strong><span style="font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Creative Expression 🎨</span></strong></span></h4>
