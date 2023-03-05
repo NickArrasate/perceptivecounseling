@@ -31,13 +31,17 @@ cta:
 ---
 <div class="d-flex align-items-center justify-content-around row">
 <div class="col-11 col-md-8 col-lg-6 row prices-row" style="margin-top: 2em;">
-<div class="col-6 text-center">
+<div class="col-12 col-sm-4 text-center">
 <p class="underlined-text">20 minute Consultation</p>
 <p>Complimentary</p>
 </div>
-<div class="col-6 text-center">
+<div class="col-12 col-sm-4 text-center">
 <p class="underlined-text">50 minute Counseling Session</p>
 <p>$150</p>
+</div>
+<div class="col-12 col-sm-4 text-center">
+<p class="underlined-text">75 minute EMDR & Creativity Session</p>
+<p>$220</p>
 </div>
 </div>
 <div class="col-sm-12 row ">&nbsp;</div>
