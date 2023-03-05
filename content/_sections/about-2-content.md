@@ -44,8 +44,6 @@ cta:
 <p><span style="font-size: 18pt;">She/ Her</span></p>
 <h4><span style="font-size: 18pt;">Professional Counselor Associate,&nbsp; EMDR Therapist</span></h4>
 <p>&nbsp;</p>
-<h4><span style="font-size: 18pt;">In Person Sessions on NE Alberta 🏡</span></h4>
-<p>&nbsp;</p>
 <h4 dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 24pt;"><strong><span style="font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Creative Expression 🎨</span></strong></span></h4>
 <br />
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You will be invited to create and use imagery to deepen reflection while moving toward self-trust. </span><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">These guided creative prompts are personalized to you and inspired by our work together.</span></p>
@@ -71,6 +69,9 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Grounding looks different for everyone!&nbsp;</span></p>
 <br />
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This could be noticing senses, taking some deep breaths, imagining a peaceful place etc&hellip;System feeling more regulated than before? That's grounding. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+<h4><span style="font-size: 18pt;">In Person Sessions on NE Alberta 🏡</span></h4>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <br /><br /></div>
