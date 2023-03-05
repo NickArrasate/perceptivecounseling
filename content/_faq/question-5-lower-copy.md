@@ -4,4 +4,4 @@ category: Logistics
 category_order: 1
 
 ---
-I do have limited lower fee slots, you are always welcome to reach out to see if there is one available.
+<p>I do have limited reduced fee options, you are always welcome to reach out to see if there is one available.</p>
