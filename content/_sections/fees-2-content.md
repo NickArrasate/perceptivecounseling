@@ -47,6 +47,6 @@ cta:
 <div class="col-sm-12 row ">&nbsp;</div>
 <div class="col-sm-10 col-md-8 col-lg-6 " style="margin-top: 2em;">
 <p>Since so much about the effectiveness of counseling depends on our relationship and comfort within the room, it is vital that it feels like a good fit.</p>
-<p>I offer a complimentary 20-minute initial phone consultation where we can talk about what you want out of counseling.</p>
+<p>I offer a complimentary 20-minute initial phone consultation where we can both get a sense of how it could feel to work together.</p>
 </div>
 </div>
