@@ -44,9 +44,6 @@ cta:
 <p><span style="font-size: 18pt;">She/ Her</span></p>
 <h4><span style="font-size: 18pt;">Professional Counselor Associate, EMDR Therapist</span></h4>
 <p>&nbsp;</p>
-<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;">&nbsp;</p>
-<p class="p1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial; -webkit-text-stroke-color: #000000;"><span style="font-size: 24pt; font-weight: bold; white-space: pre-wrap;">Our Magical Toolbox for Therapy Together </span></p>
-<br /><br /><br />
 <h4 dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 24pt;"><strong><span style="font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Creative Expression 🎨</span></strong></span></h4>
 <br />
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You will be invited to create and use imagery to deepen reflection while moving toward self-trust. </span><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">These guided creative prompts are personalized to you and inspired by our work together.</span></p>
@@ -74,10 +71,7 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This could be noticing senses, taking some deep breaths, imagining a peaceful place etc&hellip;System feeling more regulated than before? That's grounding. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-<br /><br />
-
-
-</div>
+<br /><br /></div>
 {% if page.style.page_images.img_path %}
 <div class="col-md-4 d-md-block d-none p-4">
 <div class="d-flex flex-column align-items-center justify-content-between"><img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_path}}" alt="personal image" /> {% if page.style.page_images.img_2_path %} <img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_2_path}}" alt="personal image" /> {% endif %} {% if page.style.page_images.img_3_path %} <img style="max-width: 100%; margin-bottom: 24px;" src="{{page.style.page_images.img_3_path}}" alt="personal image" /> {% endif %}</div>
@@ -98,4 +92,3 @@ cta:
 <p class="p1" style="margin: 0px 0px 12px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; -webkit-text-stroke-color: #000000;"><span class="s1" style="font-kerning: none; font-size: 18pt;">Outside of working with my lovely clients, I enjoy crafting, building on my own creative self care rituals (painting, collaging, writing, pulling my own cards), listening to podcasts, cooking, connecting with loved ones, decompressing with some tv and going out into nature with my sweet Basset mix Penny.&nbsp;</span></p>
 </div>
 </div>
-
