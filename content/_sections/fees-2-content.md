@@ -40,8 +40,8 @@ cta:
 <p>$150</p>
 </div>
 <div class="col-12 col-sm-4 text-center">
-<p class="underlined-text">75 minute EMDR & Creativity Session</p>
-<p>$220</p>
+<p class="underlined-text">75 minute EMDR &amp; Creativity Session</p>
+<p>$210</p>
 </div>
 </div>
 <div class="col-sm-12 row ">&nbsp;</div>
