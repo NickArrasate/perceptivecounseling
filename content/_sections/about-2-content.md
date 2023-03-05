@@ -71,7 +71,7 @@ cta:
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">This could be noticing senses, taking some deep breaths, imagining a peaceful place etc&hellip;System feeling more regulated than before? That's grounding. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
-<h4><span style="font-size: 18pt;">In Person Sessions on NE Alberta 🏡</span></h4>
+<h4><span style="font-size: 24pt;">In Person Sessions on NE Alberta 🏡</span></h4>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <br /><br /></div>
