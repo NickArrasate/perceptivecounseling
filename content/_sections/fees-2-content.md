@@ -30,7 +30,7 @@ cta:
 
 ---
 <div class="d-flex align-items-center justify-content-around row">
-<div class="col-11 col-md-8 col-lg-6 row prices-row" style="margin-top: 2em;">
+<div class="col-12 col-md-8 col-lg-6 row prices-row" style="margin-top: 2em;">
 <div class="col-12 col-sm-4 text-center">
 <p class="underlined-text">20 minute Consultation</p>
 <p>Complimentary</p>
