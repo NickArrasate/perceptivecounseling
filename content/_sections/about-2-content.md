@@ -68,7 +68,7 @@ cta:
 <br />
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Grounding looks different for everyone!&nbsp;</span></p>
 <br />
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We explore what kind of grounding feels right for you, there is no right or wrong. This could be noticing senses, taking some deep breaths, imagining a peaceful place etc&hellip;System feeling more regulated than before? That's grounding. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 18pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We explore grounding tools that can help inside and outside of session.This could be noticing senses, taking some deep breaths, imagining a peaceful place etc&hellip;System feeling more regulated than before? That's grounding. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
 <br /><br /></div>
