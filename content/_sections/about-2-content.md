@@ -4,7 +4,7 @@ head:
   title: null
   subtitle_content: null
   img_path: >-
-    https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1651594996005-Optimized-IMG_2230.jpeg
+    https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1683147432649-IMG_7677.jpeg
 style:
   id: ''
   class: feature-blocks alt
