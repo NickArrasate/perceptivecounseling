@@ -29,7 +29,7 @@ style:
     img_2_path: >-
       https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1666303075684-edz-norton-eUX74J_IpXw-unsplash__1_.jpg
     img_3_path: >-
-      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1662839527193-IMG_0009__1_.jpg
+      https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/NickArrasate/perceptivecounseling/1683144927104-IMG_7677.jpeg
 cta:
   headline: null
   btnText: null
