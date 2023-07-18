@@ -21,7 +21,7 @@ style:
       url_path: null
       type: null
       posterurl_path: null
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: "rgba(0,0,0,0.0)"
 cta:
   headline: null
   btnText: null
@@ -29,5 +29,9 @@ cta:
   btnLink: null
   subtext: null
 ---
+
 <p class="text-center">This is a secure, HIPAA compliant form.</p>
+<p class="text-center">You may also contact me directly at: 
+    <a class="contact-link" href="mailto:lucy@perceptivecounselingpdx.com">lucy@perceptivecounselingpdx.com</a></p>
+
 <p>{% include widgets/contact-form.html %}</p>
