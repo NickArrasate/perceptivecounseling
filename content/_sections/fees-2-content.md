@@ -40,7 +40,7 @@ cta:
 <p>$165</p>
 </div>
 <div class="col-12 col-sm-4 text-center">
-<p class="underlined-text">75 minute EMDR &amp; Creativity Session</p>
+<p class="underlined-text">Extended EMDR&nbsp; Sessions</p>
 <p>Each additional 25 minutes is at the same rate as 25 min of your 50 minute session.</p>
 </div>
 </div>
