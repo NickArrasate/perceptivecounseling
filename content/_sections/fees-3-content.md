@@ -37,7 +37,7 @@ cta:
 <p>If my fees are a barrier to you getting the support you need, please feel free to inquire about my limited reduced fee slots. These slots are meant to be ever-changing as clients's financial situation changes, the fee can adjust to open up more reduced fee options for those that need it.&nbsp;</p>
 <p><strong>Superbills</strong></p>
 <p>Some insurance companies will reimburse for out of network benefits. You can reach out to your specific insurance provider, ask if they will cover mental health counseling from a Licensed Professional Counselor and if they do then you will pay the fee for counseling. Once you have paid then I can provide you with a superbill document that you can submit to your insurance provider to reimburse for some portion of services.</p>
-<p>In oredr to find out what your reimbursement rate would be for your personal plan, call your insurance company and ask:&nbsp;</p>
+<p>In order to find out what your reimbursement rate would be for your personal plan, call your insurance company and ask:&nbsp;</p>
 <p>1) Are out-of-network mental health services covered through my plan?</p>
 <p>2) What is the reimbursement rate for out-of-network mental health therapy sessions?</p>
 <p>3) is there a limitation for amount of services/reimbursement I can receive on my plan?&nbsp;</p>
